@@ -23,8 +23,15 @@ The project is organized into the following directories:
   * `final_report.pdf`: Executive summary of insights and actionable business recommendations.
 * **`/chart_images`**: Exported high-resolution visual assets generated during EDA (e.g., regional sales comparisons, shipping cost distributions).
 
-## Key Insights & Visualizations
+## Key Insights 
 *The West Coast hub showed a 15% higher average shipping cost, while the East Coast maintained higher overall customer ratings.*
+**Equal Hub Performance::** *Both the East and West Coast shipping hubs perform equally well in order volume and customer satisfaction.*
+
+**Focus on Seasons, Not Regions:** *The company should scale its staffing and inventory for mid-year demand spikes rather than worrying about specific locations..*
+
+**One National Strategy:** *Marketing budgets should be combined into a single national campaign because customers on both coasts buy the exact same way.*
+
+**rack Product Costs:** *T To boost future profits, the company needs to analyze the shipping costs and return rates of specific items, like bulky clothing versus fragile ornaments.*
 
 ## Tech Stack
 * **Language:** Python 3.x
