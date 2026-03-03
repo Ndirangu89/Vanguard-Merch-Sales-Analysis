@@ -25,7 +25,8 @@ The project is organized into the following directories:
 
 ## Key Insights 
 **The West Coast hub showed a 15% higher average shipping cost, while the East Coast maintained higher overall customer ratings.**
-**Equal Hub Performance::** *Both the East and West Coast shipping hubs perform equally well in order volume and customer satisfaction.*
+
+**Equal Hub Performance:** *Both the East and West Coast shipping hubs perform equally well in order volume and customer satisfaction.*
 
 **Focus on Seasons, Not Regions:** *The company should scale its staffing and inventory for mid-year demand spikes rather than worrying about specific locations..*
 
