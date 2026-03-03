@@ -1,0 +1,855 @@
+Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Location,International Shipping,Sales Price,Shipping Charges,Sales per Unit,Quantity,Total Sales,Rating,Review
+189440,2024-07-21,BF1543,Clothing,Male,30.0,New Jersey,No,100,0.0,100,1,100,4.0,The delivery team handled the product with care.
+138348,2024-01-26,BF1549,Clothing,Male,26.0,New Jersey,No,130,0.0,130,2,260,2.0,The product had an underwhelming design.
+131552,2023-11-30,BF1548,Clothing,Male,26.0,Portland,No,65,0.0,65,1,65,,The product was affordable here compared to other brands.
+138795,2024-06-02,BF1546,Clothing,Female,19.0,New Jersey,No,118,0.0,118,3,354,1.0,
+142933,2024-07-23,BF1550,Clothing,Male,19.0,New Jersey,No,97,0.0,97,4,388,3.0,Had slight delays but the product was in good shape.
+167831,2024-03-09,BF1547,Ornaments,Male,22.0,New Jersey,No,32,0.0,32,1,32,,The product had excellent quality.
+199874,2024-02-26,BF1552,Ornaments,Male,26.0,New Jersey,No,45,0.0,45,2,90,4.0,
+123840,2024-09-20,BF1551,Ornaments,Male,34.0,Portland,No,15,0.0,15,4,60,1.0,The promotion quality does not match the product
+155829,2023-11-13,BF1549,Clothing,Male,26.0,New Jersey,No,130,0.0,130,2,260,1.0,
+169753,2024-07-13,BF1543,Clothing,Male,31.0,New Jersey,No,100,0.0,100,5,500,5.0,The product was delivered quickly.
+137794,2024-01-20,BF1550,Clothing,Male,,New Jersey,No,97,0.0,97,1,97,2.0,"Unfortunately, the delivery was late."
+158342,2024-03-30,BF1550,Clothing,Male,34.0,New Jersey,No,97,0.0,97,1,97,3.0,Not as expected.
+132788,2024-11-03,BF1546,Clothing,Male,19.0,New Jersey,No,118,0.0,118,1,118,5.0,
+152864,2023-11-12,BF1551,Ornaments,Male,32.0,Portland,No,15,0.0,15,1,15,4.0,
+122419,2024-04-10,BF1551,Ornaments,Male,33.0,Portland,No,15,0.0,15,1,15,4.0,Lack of delivery delays is greatly appreciated.
+135782,2024-03-14,BF1554,Ornaments,Female,27.0,Portland,No,20,0.0,20,1,20,4.0,
+141276,2024-10-28,BF1549,Clothing,Male,18.0,New Jersey,No,130,0.0,130,1,130,3.0,It was ok.
+153977,2024-02-01,BF1555,Other,Male,32.0,New Jersey,No,23,0.0,23,1,23,5.0,
+134449,2024-09-24,BF1548,Clothing,Female,26.0,Portland,No,65,0.0,65,1,65,2.0,"Unfortunately, the delivery was late."
+189849,2024-02-08,BF1547,Ornaments,Male,31.0,Portland,No,32,0.0,32,2,64,5.0,Great design is one of the major positives of this product.
+126824,2024-05-02,BF1551,Ornaments,Male,29.0,Portland,No,15,0.0,15,5,75,,Discount deals was greatly appreciated.
+197590,2024-01-20,BF1543,Clothing,Male,19.0,Portland,No,100,0.0,100,3,300,3.0,Had slight delays but the product was in good shape.
+151631,2024-05-01,BF1551,Ornaments,Male,26.0,Portland,No,15,0.0,15,1,15,2.0,The promotion quality does not match the product
+122636,2024-04-18,BF1553,Ornaments,Male,29.0,Portland,No,50,0.0,50,1,50,5.0,Lack of delivery delays is greatly appreciated.
+122077,2024-10-16,BF1551,Ornaments,Male,25.0,Portland,No,15,0.0,15,1,15,,Great design is one of the major positives of this product.
+192918,2024-08-09,BF1554,Ornaments,Male,18.0,Portland,No,20,0.0,20,1,20,4.0,Discount deals was greatly appreciated.
+167856,2024-05-25,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,1,100,5.0,
+160595,2023-12-06,BF1543,Clothing,Male,25.0,Portland,No,100,0.0,100,1,100,3.0,Nothing too special.
+186493,2024-05-04,BF1543,Clothing,Male,24.0,New Jersey,No,100,0.0,100,4,400,,The Product exhibits good design.
+131784,2024-08-09,BF1544,Other,Female,,Portland,No,9,0.0,9,1,9,4.0,The Product exhibits good design.
+162525,2024-02-08,BF1546,Clothing,Male,23.0,Portland,No,118,0.0,118,2,236,4.0,Exquisite craftsmanship here is absolutely appreciated.
+148784,2023-11-05,BF1554,Ornaments,Male,21.0,New Jersey,No,20,0.0,20,4,80,5.0,The product was affordable here compared to other brands.
+157577,2023-11-06,BF1548,Clothing,Male,22.0,Portland,No,65,0.0,65,1,65,1.0,The promotion quality does not match the product
+134130,2024-03-25,BF1551,Ornaments,Male,31.0,Portland,No,15,0.0,15,5,75,4.0,Lack of delivery delays is greatly appreciated.
+175671,2023-12-30,BF1543,Clothing,Male,35.0,New Jersey,No,100,0.0,100,1,100,,Discount deals was greatly appreciated.
+175005,2024-01-08,BF1550,Clothing,Male,33.0,New Jersey,No,97,0.0,97,1,97,1.0,
+121253,2024-07-25,BF1548,Clothing,Female,23.0,New Jersey,No,65,0.0,65,2,130,1.0,The promotion quality does not match the product
+153865,2024-06-05,BF1549,Clothing,Male,34.0,New Jersey,No,130,0.0,130,1,130,3.0,Average product
+132191,2024-08-23,BF1555,Other,Male,34.0,Portland,No,23,0.0,23,1,23,2.0,
+130115,2023-12-02,BF1548,Clothing,Female,32.0,New Jersey,No,65,0.0,65,2,130,2.0,"Unfortunately, the delivery was late."
+193512,2024-08-29,BF1548,Clothing,Male,31.0,Portland,No,65,0.0,65,2,130,4.0,Discount deals was greatly appreciated.
+156238,2024-03-09,BF1548,Clothing,Female,34.0,New Jersey,No,65,0.0,65,1,65,4.0,
+120190,2024-09-02,BF1543,Clothing,Female,,New Jersey,No,100,,100,1,100,5.0,Great design is one of the major positives of this product.
+168218,2024-10-16,BF1551,Ornaments,Female,25.0,Portland,No,15,0.0,15,1,15,4.0,Great design is one of the major positives of this product.
+140652,2024-01-06,BF1549,Clothing,Male,31.0,New Jersey,No,130,,130,3,390,,
+168238,2024-05-25,BF1547,Ornaments,Male,27.0,Portland,No,32,0.0,32,1,32,,The product was affordable here compared to other brands.
+155674,2024-10-05,BF1543,Clothing,Female,22.0,Portland,No,100,0.0,100,5,500,3.0,The handling was questionable but incurred only minute damages.
+140830,2023-12-12,BF1545,Other,Male,24.0,Portland,No,10,0.0,10,1,10,,Never buying from here again.
+178483,2024-04-16,BF1550,Clothing,Male,32.0,Portland,No,97,0.0,97,1,97,1.0,Careless handling by the delivery team.
+147900,2023-12-22,BF1543,Clothing,Male,33.0,Portland,No,100,,100,1,100,1.0,"Unfortunately, the delivery was late."
+153362,2024-01-05,BF1543,Clothing,Female,35.0,New Jersey,No,100,0.0,100,2,200,3.0,
+130297,2024-04-11,BF1546,Clothing,Male,26.0,Portland,No,118,0.0,118,1,118,5.0,Incredible detailing was clearly evident.
+136089,2024-10-07,BF1551,Ornaments,Female,22.0,New Jersey,No,15,0.0,15,1,15,5.0,Lack of delivery delays is greatly appreciated.
+195492,2024-10-16,BF1548,Clothing,Female,22.0,New Jersey,No,65,0.0,65,1,65,5.0,Exquisite craftsmanship here is absolutely appreciated.
+136489,2024-01-01,BF1545,Other,Male,34.0,New Jersey,No,10,0.0,10,5,50,4.0,
+181199,2024-08-13,BF1548,Clothing,Male,23.0,New Jersey,No,65,0.0,65,1,65,2.0,Waste of Money.
+131347,2024-04-15,BF1550,Clothing,Female,32.0,New Jersey,No,97,0.0,97,1,97,4.0,Premium quality as usual.
+135019,2024-04-28,BF1549,Clothing,Male,21.0,New Jersey,No,130,0.0,130,3,390,4.0,The delivery team handled the product with care.
+140942,2024-04-20,BF1554,Ornaments,Male,,Portland,No,20,0.0,20,1,20,4.0,The delivery team handled the product with care.
+171016,2024-03-08,BF1551,Ornaments,Male,32.0,Portland,No,15,0.0,15,2,30,5.0,The product was delivered quickly.
+141401,2024-07-20,BF1550,Clothing,Male,31.0,Portland,No,97,0.0,97,2,194,2.0,The promotion quality does not match the product
+190614,2024-01-24,BF1548,Clothing,Female,20.0,New Jersey,No,65,0.0,65,1,65,4.0,Incredible detailing was clearly evident.
+174137,2023-11-11,BF1544,Other,Male,32.0,New Jersey,No,9,0.0,9,3,27,5.0,Exquisite craftsmanship here is absolutely appreciated.
+173919,2024-09-07,BF1545,Other,Male,35.0,Portland,No,10,0.0,10,1,10,1.0,Never buying from here again.
+160004,2024-09-11,BF1547,Ornaments,Male,27.0,Portland,No,32,0.0,32,3,96,1.0,The product had poor quality.
+139478,2024-06-04,BF1551,Ornaments,Male,32.0,Portland,No,15,0.0,15,1,15,1.0,Never buying from here again.
+151351,2024-01-13,BF1548,Clothing,Male,34.0,New Jersey,No,65,0.0,65,1,65,4.0,Discount deals was greatly appreciated.
+145555,2024-07-30,BF1554,Ornaments,Female,27.0,New Jersey,No,20,0.0,20,1,20,4.0,Discount deals was greatly appreciated.
+182509,2024-07-06,BF1543,Clothing,Male,35.0,New Jersey,No,100,0.0,100,4,400,5.0,Great design is one of the major positives of this product.
+196459,2024-08-25,BF1543,Clothing,Male,18.0,Portland,No,100,0.0,100,1,100,4.0,Exquisite craftsmanship here is absolutely appreciated.
+159380,2024-02-12,BF1544,Other,Female,21.0,New Jersey,No,9,,9,1,9,1.0,The promotion quality does not match the product
+135176,2024-05-29,BF1548,Clothing,Female,27.0,Portland,No,65,0.0,65,1,65,,Lack of delivery delays is greatly appreciated.
+199519,2024-05-18,BF1549,Clothing,Male,,New Jersey,No,130,0.0,130,1,130,4.0,
+159249,2024-02-26,BF1548,Clothing,Female,28.0,Portland,No,65,0.0,65,2,130,4.0,The product was affordable here compared to other brands.
+126806,2023-11-17,BF1550,Clothing,Female,19.0,Portland,No,97,0.0,97,1,97,4.0,Exquisite craftsmanship here is absolutely appreciated.
+171530,2024-02-11,BF1551,Ornaments,Male,26.0,New Jersey,No,15,0.0,15,1,15,1.0,There is clear evidence of subpar detailing.
+151312,2024-03-11,BF1553,Ornaments,Female,29.0,Portland,No,50,0.0,50,1,50,1.0,Waste of Money.
+147143,2024-02-01,BF1548,Clothing,Male,23.0,Portland,No,65,0.0,65,1,65,4.0,Incredible detailing was clearly evident.
+161288,2023-12-06,BF1545,Other,Male,32.0,New Jersey,No,10,0.0,10,1,10,3.0,Had slight delays but the product was in good shape.
+187619,2024-03-20,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,2,130,2.0,The product had poor quality.
+135821,2023-11-28,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,1.0,
+199344,2024-10-03,BF1545,Other,Male,19.0,New Jersey,No,10,0.0,10,1,10,5.0,Discount deals was greatly appreciated.
+175056,2024-09-06,BF1547,Ornaments,Female,29.0,New Jersey,No,32,,32,1,32,,Exquisite craftsmanship here is absolutely appreciated.
+192780,2024-08-03,BF1550,Clothing,Male,20.0,Portland,No,97,0.0,97,1,97,3.0,Not as expected.
+143719,2024-01-11,BF1543,Clothing,Male,22.0,Portland,No,100,0.0,100,1,100,3.0,Had slight delays but the product was in good shape.
+199047,2024-03-06,BF1546,Clothing,Male,21.0,New Jersey,No,118,0.0,118,1,118,4.0,The product had excellent quality.
+156468,2024-07-03,BF1546,Clothing,Female,22.0,Portland,No,118,0.0,118,1,118,5.0,
+147972,2024-06-30,BF1548,Clothing,Male,24.0,Portland,No,65,0.0,65,1,65,4.0,
+140296,2024-08-18,BF1549,Clothing,Female,25.0,Portland,No,130,0.0,130,2,260,5.0,Exquisite craftsmanship here is absolutely appreciated.
+170323,2024-02-15,BF1548,Clothing,Male,35.0,Portland,No,65,0.0,65,1,65,5.0,
+174841,2024-04-25,BF1551,Ornaments,Male,24.0,New Jersey,No,15,0.0,15,2,30,4.0,
+151897,2024-01-13,BF1547,Ornaments,Female,32.0,New Jersey,No,32,0.0,32,1,32,,
+165000,2024-02-07,BF1550,Clothing,Female,27.0,Portland,No,97,0.0,97,1,97,5.0,Discount deals was greatly appreciated.
+152157,2024-02-16,BF1551,Ornaments,Male,26.0,Portland,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+154624,2024-07-18,BF1550,Clothing,Female,26.0,New Jersey,No,97,0.0,97,3,291,5.0,The Product exhibits good design.
+189038,2024-06-18,BF1544,Other,Male,35.0,Portland,No,9,0.0,9,1,9,4.0,Discount deals was greatly appreciated.
+125609,2024-03-26,BF1548,Clothing,Female,21.0,New Jersey,No,65,0.0,65,2,130,4.0,Incredible detailing was clearly evident.
+150855,2023-12-02,BF1543,Clothing,Male,33.0,New Jersey,No,100,0.0,100,1,100,4.0,Discount deals was greatly appreciated.
+160108,2024-02-09,BF1550,Clothing,Male,,Portland,No,97,0.0,97,1,97,4.0,The Product exhibits good design.
+120932,2023-12-02,BF1545,Other,Male,35.0,Portland,No,10,0.0,10,1,10,3.0,Not as expected.
+178776,2024-01-22,BF1550,Clothing,Male,,New Jersey,No,97,0.0,97,2,194,3.0,The handling was questionable but incurred only minute damages.
+148773,2024-01-16,BF1545,Other,Male,29.0,Portland,No,10,0.0,10,1,10,5.0,
+160395,2024-10-11,BF1548,Clothing,Female,20.0,New Jersey,No,65,0.0,65,2,130,4.0,Lack of delivery delays is greatly appreciated.
+168752,2024-10-07,BF1548,Clothing,Male,18.0,Portland,No,65,0.0,65,1,65,,Exquisite craftsmanship here is absolutely appreciated.
+193954,2024-06-18,BF1552,Ornaments,Male,26.0,Portland,No,45,0.0,45,1,45,3.0,The handling was questionable but incurred only minute damages.
+159511,2024-08-17,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,1,65,2.0,
+128071,2024-09-25,BF1551,Ornaments,Male,23.0,Portland,No,15,0.0,15,1,15,,
+132321,2024-02-14,BF1549,Clothing,Male,31.0,New Jersey,No,130,0.0,130,1,130,3.0,Had slight delays but the product was in good shape.
+146293,2024-03-11,BF1553,Ornaments,Female,22.0,Portland,No,50,0.0,50,1,50,5.0,The Product exhibits good design.
+159577,2024-02-13,BF1552,Ornaments,Male,25.0,New Jersey,No,45,0.0,45,1,45,4.0,Exquisite craftsmanship here is absolutely appreciated.
+189766,2023-11-10,BF1543,Clothing,Male,25.0,New Jersey,No,100,0.0,100,1,100,5.0,Premium quality as usual.
+137068,2024-04-18,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,1,65,1.0,The product is not as advertised.
+165618,2024-10-24,BF1545,Other,Male,18.0,Portland,No,10,0.0,10,1,10,4.0,The delivery team handled the product with care.
+133621,2023-12-29,BF1550,Clothing,Male,25.0,Portland,No,97,0.0,97,1,97,1.0,
+138549,2024-04-07,BF1544,Other,Male,33.0,New Jersey,No,9,0.0,9,3,27,5.0,Great design is one of the major positives of this product.
+151522,2024-04-05,BF1548,Clothing,Male,33.0,Portland,No,65,0.0,65,1,65,4.0,The Product exhibits good design.
+190504,2024-03-25,BF1548,Clothing,Male,18.0,New Jersey,No,65,0.0,65,1,65,4.0,Premium quality as usual.
+158452,2024-01-07,BF1551,Ornaments,Female,26.0,Portland,No,15,0.0,15,1,15,5.0,Great design is one of the major positives of this product.
+129948,2023-11-29,BF1545,Other,Male,27.0,Portland,No,10,0.0,10,3,30,4.0,
+198417,2023-11-12,BF1555,Other,Male,28.0,New Jersey,No,23,0.0,23,1,23,5.0,Premium quality as usual.
+151776,2024-07-08,BF1543,Clothing,Male,32.0,Portland,No,100,,100,1,100,,Incredible detailing was clearly evident.
+120401,2024-09-26,BF1544,Other,Male,33.0,New Jersey,No,9,0.0,9,2,18,5.0,The product was affordable here compared to other brands.
+168686,2023-12-13,BF1555,Other,Male,20.0,Portland,No,23,0.0,23,2,46,4.0,The Product exhibits good design.
+192066,2024-05-30,BF1548,Clothing,Female,26.0,New Jersey,No,65,,65,1,65,,Clear delays in delivery.
+161021,2024-02-24,BF1553,Ornaments,Male,31.0,New Jersey,No,50,0.0,50,1,50,5.0,Incredible detailing was clearly evident.
+180763,2024-07-09,BF1546,Clothing,Male,23.0,New Jersey,No,118,0.0,118,2,236,3.0,The handling was questionable but incurred only minute damages.
+141286,2024-11-02,BF1544,Other,Male,33.0,New Jersey,No,9,0.0,9,2,18,1.0,The product had poor quality.
+171279,2024-10-03,BF1548,Clothing,Female,20.0,New Jersey,No,65,0.0,65,2,130,1.0,"Unfortunately, the delivery was late."
+128145,2024-02-11,BF1554,Ornaments,Female,,New Jersey,No,20,0.0,20,1,20,5.0,
+177684,2024-03-27,BF1543,Clothing,Male,35.0,New Jersey,No,100,0.0,100,1,100,,The delivery team handled the product with care.
+144175,2024-09-12,BF1543,Clothing,Male,18.0,New Jersey,No,100,,100,1,100,3.0,The handling was questionable but incurred only minute damages.
+174920,2024-01-08,BF1544,Other,Male,35.0,Portland,No,9,0.0,9,2,18,5.0,The product had excellent quality.
+199394,2024-04-14,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,4,260,4.0,Premium quality as usual.
+125828,2024-03-09,BF1544,Other,Female,32.0,Portland,No,9,0.0,9,1,9,3.0,Nothing too special.
+158294,2024-07-23,BF1553,Ornaments,Female,20.0,Portland,No,50,0.0,50,1,50,5.0,Incredible detailing was clearly evident.
+139302,2024-02-06,BF1545,Other,Female,30.0,Portland,No,10,0.0,10,2,20,2.0,Low quality products are a usual here these days.
+143131,2024-03-27,BF1551,Ornaments,Female,22.0,Portland,No,15,0.0,15,3,45,2.0,The product is not as advertised.
+134630,2023-11-10,BF1545,Other,Female,35.0,New Jersey,No,10,0.0,10,1,10,5.0,The product had excellent quality.
+148015,2024-08-03,BF1548,Clothing,Male,20.0,New Jersey,No,65,0.0,65,1,65,4.0,
+182858,2024-02-21,BF1543,Clothing,Male,30.0,New Jersey,No,100,0.0,100,1,100,2.0,There is clear evidence of subpar detailing.
+143231,2023-11-28,BF1548,Clothing,Female,25.0,Portland,No,65,0.0,65,1,65,5.0,Exquisite craftsmanship here is absolutely appreciated.
+179562,2024-08-05,BF1544,Other,Female,21.0,New Jersey,No,9,,9,1,9,,Great design is one of the major positives of this product.
+191215,2024-07-01,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,1,9,3.0,The handling was questionable but incurred only minute damages.
+193816,2024-07-03,BF1549,Clothing,Female,24.0,New Jersey,No,130,0.0,130,2,260,4.0,Lack of delivery delays is greatly appreciated.
+136214,2024-03-26,BF1555,Other,Male,21.0,New Jersey,No,23,0.0,23,1,23,2.0,The product is not as advertised.
+183238,2024-09-04,BF1550,Clothing,Male,,Portland,No,97,0.0,97,1,97,5.0,Lack of delivery delays is greatly appreciated.
+133409,2024-09-21,BF1554,Ornaments,Male,23.0,Portland,No,20,,20,2,40,4.0,The product was delivered quickly.
+143492,2024-09-30,BF1554,Ornaments,Male,22.0,New Jersey,No,20,0.0,20,1,20,4.0,Incredible detailing was clearly evident.
+151691,2023-11-17,BF1543,Clothing,Male,32.0,Portland,No,100,0.0,100,1,100,3.0,Had slight delays but the product was in good shape.
+193619,2024-04-28,BF1549,Clothing,Male,18.0,New Jersey,No,130,0.0,130,1,130,3.0,The handling was questionable but incurred only minute damages.
+199480,2024-08-01,BF1551,Ornaments,Male,34.0,New Jersey,No,15,0.0,15,2,30,4.0,Great design is one of the major positives of this product.
+198137,2024-10-11,BF1545,Other,Male,24.0,New Jersey,No,10,0.0,10,2,20,3.0,The handling was questionable but incurred only minute damages.
+175965,2024-07-16,BF1549,Clothing,Male,28.0,Portland,No,130,,130,1,130,3.0,It was ok.
+174191,2024-04-08,BF1551,Ornaments,Male,31.0,New Jersey,No,15,0.0,15,3,45,4.0,The Product exhibits good design.
+175779,2024-07-30,BF1547,Ornaments,Male,22.0,Portland,No,32,0.0,32,3,96,1.0,"Unfortunately, the delivery was late."
+128847,2024-07-06,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,2,130,4.0,The Product exhibits good design.
+140596,2023-12-02,BF1547,Ornaments,Male,28.0,New Jersey,No,32,0.0,32,1,32,3.0,Not as expected.
+162752,2024-02-24,BF1551,Ornaments,Male,21.0,Portland,No,15,,15,1,15,3.0,Nothing too special.
+137983,2024-02-10,BF1548,Clothing,Male,23.0,Portland,No,65,0.0,65,1,65,4.0,
+185047,2024-05-20,BF1555,Other,Male,29.0,New Jersey,No,23,0.0,23,4,92,,Great design is one of the major positives of this product.
+145325,2024-02-27,BF1550,Clothing,Male,27.0,New Jersey,No,97,0.0,97,1,97,4.0,
+129221,2024-04-03,BF1552,Ornaments,Male,20.0,Portland,No,45,0.0,45,2,90,1.0,Waste of Money.
+174255,2024-10-12,BF1552,Ornaments,Female,20.0,Portland,No,45,0.0,45,1,45,5.0,Premium quality as usual.
+123607,2024-09-29,BF1550,Clothing,Male,24.0,Portland,No,97,0.0,97,1,97,5.0,The delivery team handled the product with care.
+167560,2024-06-07,BF1551,Ornaments,Male,24.0,Portland,No,15,0.0,15,2,30,2.0,Careless handling by the delivery team.
+145077,2024-07-02,BF1549,Clothing,Male,25.0,New Jersey,No,130,0.0,130,1,130,,Great design is one of the major positives of this product.
+133575,2023-11-22,BF1546,Clothing,Male,34.0,New Jersey,No,118,0.0,118,1,118,5.0,The product was delivered quickly.
+154702,2024-09-05,BF1549,Clothing,Male,29.0,New Jersey,No,130,0.0,130,1,130,3.0,Expected much better
+178244,2024-05-16,BF1548,Clothing,Female,,Portland,No,65,0.0,65,1,65,2.0,Waste of Money.
+179464,2024-02-02,BF1550,Clothing,Male,21.0,Portland,No,97,0.0,97,2,194,4.0,Great design is one of the major positives of this product.
+178420,2024-07-28,BF1549,Clothing,Female,25.0,Portland,No,130,0.0,130,4,520,4.0,The delivery team handled the product with care.
+148152,2024-03-20,BF1546,Clothing,Male,,New Jersey,No,118,0.0,118,1,118,4.0,Lack of delivery delays is greatly appreciated.
+194741,2024-02-06,BF1551,Ornaments,Male,22.0,Portland,No,15,0.0,15,2,30,1.0,The product had an underwhelming design.
+177375,2024-08-30,BF1543,Clothing,Male,18.0,New Jersey,No,100,0.0,100,1,100,5.0,Great design is one of the major positives of this product.
+180133,2024-06-02,BF1543,Clothing,Female,34.0,New Jersey,No,100,0.0,100,1,100,1.0,The promotion quality does not match the product
+178271,2024-06-05,BF1550,Clothing,Male,27.0,Portland,No,97,0.0,97,2,194,4.0,Discount deals was greatly appreciated.
+174774,2024-07-03,BF1549,Clothing,Male,20.0,Portland,No,130,0.0,130,3,390,,Exquisite craftsmanship here is absolutely appreciated.
+150885,2024-05-13,BF1552,Ornaments,Female,23.0,New Jersey,No,45,0.0,45,1,45,5.0,Lack of delivery delays is greatly appreciated.
+135736,2024-02-19,BF1545,Other,Female,35.0,Portland,No,10,0.0,10,1,10,2.0,
+147277,2024-10-28,BF1547,Ornaments,Female,33.0,New Jersey,No,32,0.0,32,1,32,4.0,Incredible detailing was clearly evident.
+184741,2024-06-11,BF1551,Ornaments,Male,21.0,Portland,No,15,0.0,15,1,15,,The Product exhibits good design.
+188585,2024-07-20,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,4,260,4.0,Great design is one of the major positives of this product.
+136689,2023-11-23,BF1551,Ornaments,Female,18.0,Portland,No,15,0.0,15,1,15,1.0,
+140107,2024-02-29,BF1554,Ornaments,Female,23.0,New Jersey,No,20,0.0,20,1,20,5.0,Premium quality as usual.
+122714,2024-04-21,BF1551,Ornaments,Male,23.0,New Jersey,No,15,0.0,15,1,15,,The product is not as advertised.
+125971,2024-01-27,BF1544,Other,Male,24.0,New Jersey,No,9,0.0,9,2,18,5.0,The delivery team handled the product with care.
+151282,2024-10-11,BF1548,Clothing,Male,23.0,New Jersey,No,65,0.0,65,1,65,4.0,The product was delivered quickly.
+161169,2024-02-05,BF1551,Ornaments,Female,24.0,New Jersey,No,15,0.0,15,1,15,3.0,It was ok.
+151422,2023-11-28,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,1,65,4.0,The Product exhibits good design.
+182593,2024-04-01,BF1554,Ornaments,Male,22.0,Portland,No,20,0.0,20,1,20,4.0,Premium quality as usual.
+175788,2024-07-10,BF1543,Clothing,Male,23.0,Portland,No,100,0.0,100,1,100,3.0,Expected much better
+182269,2024-10-14,BF1548,Clothing,Male,34.0,New Jersey,No,65,0.0,65,2,130,3.0,Had slight delays but the product was in good shape.
+138141,2024-08-30,BF1544,Other,Male,27.0,Portland,No,9,0.0,9,1,9,5.0,Lack of delivery delays is greatly appreciated.
+182205,2023-12-26,BF1546,Clothing,Male,21.0,Portland,No,118,0.0,118,1,118,,
+181223,2024-08-29,BF1554,Ornaments,Female,28.0,New Jersey,No,20,0.0,20,1,20,4.0,Discount deals was greatly appreciated.
+153828,2024-01-12,BF1555,Other,Female,22.0,Portland,No,23,0.0,23,4,92,,
+188851,2024-10-23,BF1550,Clothing,Female,32.0,New Jersey,No,97,0.0,97,1,97,3.0,Not as expected.
+137557,2024-10-08,BF1543,Clothing,Female,26.0,New Jersey,No,100,0.0,100,1,100,4.0,Discount deals was greatly appreciated.
+195403,2024-10-22,BF1548,Clothing,Male,22.0,New Jersey,No,65,0.0,65,5,325,4.0,Discount deals was greatly appreciated.
+129411,2024-02-18,BF1548,Clothing,Female,33.0,New Jersey,No,65,,65,4,260,2.0,There is clear evidence of subpar detailing.
+154142,2024-01-19,BF1548,Clothing,Male,28.0,New Jersey,No,65,0.0,65,1,65,3.0,It was ok.
+151198,2024-03-24,BF1547,Ornaments,Male,21.0,Portland,No,32,0.0,32,1,32,4.0,
+187286,2024-02-17,BF1545,Other,Female,23.0,Portland,No,10,0.0,10,1,10,3.0,It was ok.
+185678,2024-09-23,BF1544,Other,Male,19.0,Portland,No,9,0.0,9,1,9,5.0,The product was delivered quickly.
+128051,2024-09-26,BF1555,Other,Male,19.0,New Jersey,No,23,0.0,23,5,115,1.0,There is clear evidence of subpar detailing.
+127517,2024-01-06,BF1551,Ornaments,Female,,New Jersey,No,15,0.0,15,1,15,5.0,Premium quality as usual.
+178732,2024-02-20,BF1545,Other,Male,24.0,New Jersey,No,10,0.0,10,1,10,2.0,The product had poor quality.
+137579,2024-07-10,BF1554,Ornaments,Male,28.0,Portland,No,20,0.0,20,1,20,1.0,Never buying from here again.
+143557,2024-05-15,BF1548,Clothing,Female,,Portland,No,65,0.0,65,1,65,5.0,Premium quality as usual.
+157568,2024-10-13,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,1,65,4.0,The delivery team handled the product with care.
+182873,2024-10-29,BF1546,Clothing,Male,29.0,Portland,No,118,0.0,118,1,118,5.0,Great design is one of the major positives of this product.
+135033,2024-01-30,BF1544,Other,Male,23.0,Portland,No,9,0.0,9,1,9,5.0,The product was delivered quickly.
+130811,2024-07-27,BF1552,Ornaments,Male,33.0,New Jersey,No,45,0.0,45,2,90,5.0,Exquisite craftsmanship here is absolutely appreciated.
+180431,2024-02-23,BF1550,Clothing,Female,34.0,Portland,No,97,0.0,97,1,97,5.0,
+186442,2023-11-05,BF1547,Ornaments,Female,20.0,Portland,No,32,,32,4,128,2.0,The promotion quality does not match the product
+181840,2024-05-18,BF1545,Other,Male,32.0,Portland,No,10,0.0,10,2,20,5.0,The Product exhibits good design.
+165727,2024-04-30,BF1549,Clothing,Female,34.0,Portland,No,130,0.0,130,1,130,5.0,Discount deals was greatly appreciated.
+187251,2024-05-10,BF1544,Other,Male,29.0,New Jersey,No,9,0.0,9,1,9,5.0,
+192309,2024-04-01,BF1545,Other,Male,26.0,Portland,No,10,,10,1,10,,Had slight delays but the product was in good shape.
+162696,2024-10-22,BF1544,Other,Female,20.0,Portland,No,9,0.0,9,1,9,,The product was affordable here compared to other brands.
+154293,2024-03-27,BF1550,Clothing,Male,31.0,Portland,No,-50,0.0,97,2,194,1.0,The product had poor quality.
+162401,2024-02-23,BF1553,Ornaments,Male,30.0,Portland,No,50,0.0,50,1,50,1.0,
+156527,2023-11-23,BF1552,Ornaments,Male,26.0,New Jersey,No,45,0.0,45,3,135,2.0,There is clear evidence of subpar detailing.
+172586,2023-12-14,BF1544,Other,Male,31.0,New Jersey,No,9,0.0,9,1,9,2.0,"Unfortunately, the delivery was late."
+180132,2024-03-24,BF1547,Ornaments,Male,29.0,New Jersey,No,32,0.0,32,3,96,4.0,Discount deals was greatly appreciated.
+133426,2024-01-24,BF1545,Other,Male,22.0,Portland,No,10,0.0,10,2,20,4.0,Premium quality as usual.
+150708,2024-02-18,BF1546,Clothing,Male,21.0,Portland,No,118,0.0,118,1,118,2.0,"Unfortunately, the delivery was late."
+124753,2024-09-13,BF1543,Clothing,Male,34.0,Portland,No,100,0.0,100,3,300,,The product was delivered quickly.
+158344,2024-08-07,BF1550,Clothing,Male,32.0,New Jersey,No,97,0.0,97,1,97,5.0,Great design is one of the major positives of this product.
+197337,2024-09-07,BF1546,Clothing,Female,34.0,New Jersey,No,118,0.0,118,2,236,4.0,Premium quality as usual.
+173634,2023-11-14,BF1544,Other,Male,24.0,New Jersey,No,9,0.0,9,1,9,3.0,Had slight delays but the product was in good shape.
+193636,2024-04-20,BF1553,Ornaments,Male,30.0,Portland,No,50,0.0,50,1,50,3.0,
+154797,2023-12-10,BF1546,Clothing,Female,32.0,New Jersey,No,118,0.0,118,2,236,1.0,
+144840,2024-09-15,BF1543,Clothing,Male,18.0,Portland,No,100,0.0,100,1,100,5.0,The delivery team handled the product with care.
+191920,2024-01-05,BF1548,Clothing,Male,19.0,New Jersey,No,65,0.0,65,1,65,1.0,The product had poor quality.
+131046,2024-08-25,BF1548,Clothing,Male,20.0,New Jersey,No,65,0.0,65,1,65,5.0,The product was affordable here compared to other brands.
+159071,2024-02-03,BF1548,Clothing,Male,26.0,New Jersey,No,65,0.0,65,1,65,1.0,Never buying from here again.
+145723,2024-05-15,BF1549,Clothing,Male,,Portland,No,130,0.0,130,3,390,5.0,The product had excellent quality.
+170285,2024-06-06,BF1548,Clothing,Female,20.0,Portland,No,65,0.0,65,1,65,3.0,The handling was questionable but incurred only minute damages.
+138934,2024-06-28,BF1550,Clothing,Male,23.0,New Jersey,No,97,0.0,97,1,97,1.0,
+145477,2024-10-20,BF1545,Other,Male,21.0,Portland,No,10,0.0,10,1,10,5.0,Incredible detailing was clearly evident.
+190980,2024-06-04,BF1546,Clothing,Female,19.0,New Jersey,No,118,0.0,118,1,118,3.0,It was ok.
+151949,2024-07-29,BF1552,Ornaments,Female,18.0,New Jersey,No,45,0.0,45,1,45,4.0,
+155195,2024-01-30,BF1549,Clothing,Male,26.0,New Jersey,No,130,0.0,130,1,130,1.0,The promotion quality does not match the product
+179638,2024-06-02,BF1543,Clothing,Male,,Portland,No,100,0.0,100,1,100,3.0,The handling was questionable but incurred only minute damages.
+185265,2024-02-25,BF1551,Ornaments,Female,26.0,Portland,No,15,0.0,15,1,15,5.0,Exquisite craftsmanship here is absolutely appreciated.
+131112,2024-03-26,BF1545,Other,Female,35.0,New Jersey,No,10,0.0,10,2,20,,The product had excellent quality.
+180408,2023-11-05,BF1545,Other,Male,32.0,Portland,No,10,0.0,10,4,40,5.0,The product had excellent quality.
+154437,2024-01-25,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,1,65,5.0,Exquisite craftsmanship here is absolutely appreciated.
+144243,2024-10-30,BF1552,Ornaments,Female,22.0,New Jersey,No,45,0.0,45,1,45,4.0,Great design is one of the major positives of this product.
+129044,2024-05-13,BF1549,Clothing,Male,19.0,Portland,No,130,0.0,130,3,390,1.0,"Unfortunately, the delivery was late."
+172607,2024-05-24,BF1552,Ornaments,Male,18.0,New Jersey,No,45,0.0,45,1,45,4.0,Premium quality as usual.
+186910,2024-10-10,BF1553,Ornaments,Male,34.0,New Jersey,No,50,0.0,50,2,100,3.0,
+168877,2024-05-08,BF1545,Other,Female,27.0,New Jersey,No,10,0.0,10,1,10,4.0,The product had excellent quality.
+143402,2024-09-13,BF1551,Ornaments,Male,28.0,Portland,No,15,0.0,15,1,15,5.0,The product was affordable here compared to other brands.
+154959,2023-12-19,BF1546,Clothing,Male,34.0,Portland,No,118,,118,1,118,4.0,The product had excellent quality.
+157672,2024-03-12,BF1551,Ornaments,Male,32.0,New Jersey,No,15,,15,1,15,5.0,The delivery team handled the product with care.
+150408,2024-09-13,BF1553,Ornaments,Male,20.0,New Jersey,No,50,0.0,50,3,150,5.0,The delivery team handled the product with care.
+140223,2024-07-11,BF1551,Ornaments,Female,35.0,New Jersey,No,15,0.0,15,1,15,1.0,The product had an underwhelming design.
+120448,2024-01-04,BF1543,Clothing,Female,20.0,Portland,No,100,0.0,100,1,100,4.0,Incredible detailing was clearly evident.
+130831,2024-05-26,BF1543,Clothing,Male,25.0,New Jersey,No,100,0.0,100,4,400,5.0,Lack of delivery delays is greatly appreciated.
+185661,2023-11-24,BF1553,Ornaments,Male,32.0,Portland,No,50,0.0,50,3,150,5.0,
+168411,2023-12-24,BF1548,Clothing,Male,18.0,Portland,No,65,0.0,65,2,130,,
+142729,2024-06-09,BF1554,Ornaments,Female,24.0,New Jersey,No,20,0.0,20,1,20,5.0,Lack of delivery delays is greatly appreciated.
+181077,2024-07-20,BF1543,Clothing,Female,26.0,Portland,No,100,0.0,100,2,200,3.0,Had slight delays but the product was in good shape.
+153376,2024-04-10,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,1,100,4.0,Discount deals was greatly appreciated.
+144932,2023-12-04,BF1543,Clothing,Female,22.0,Portland,No,100,0.0,100,2,200,1.0,Never buying from here again.
+184141,2024-03-09,BF1554,Ornaments,Male,21.0,New Jersey,No,20,,20,1,20,1.0,"Unfortunately, the delivery was late."
+160448,2024-03-08,BF1548,Clothing,Female,28.0,Portland,No,65,0.0,65,1,65,4.0,Lack of delivery delays is greatly appreciated.
+148690,2024-09-24,BF1550,Clothing,Male,33.0,New Jersey,No,97,0.0,97,1,97,4.0,The Product exhibits good design.
+181472,2023-12-15,BF1551,Ornaments,Male,34.0,Portland,No,15,0.0,15,1,15,5.0,Premium quality as usual.
+198984,2024-08-16,BF1548,Clothing,Female,18.0,Portland,No,65,0.0,65,1,65,1.0,Never buying from here again.
+125934,2024-10-23,BF1550,Clothing,Male,25.0,New Jersey,No,97,0.0,97,2,194,,The promotion quality does not match the product
+133449,2024-09-12,BF1552,Ornaments,Male,22.0,New Jersey,No,45,0.0,45,1,45,5.0,Exquisite craftsmanship here is absolutely appreciated.
+165639,2024-02-15,BF1554,Ornaments,Male,18.0,New Jersey,No,20,0.0,20,1,20,5.0,Discount deals was greatly appreciated.
+163259,2024-07-08,BF1547,Ornaments,Male,24.0,Portland,No,32,,32,3,96,4.0,The product was affordable here compared to other brands.
+143876,2024-07-07,BF1549,Clothing,Male,25.0,Portland,No,130,0.0,130,1,130,4.0,
+163577,2024-05-26,BF1545,Other,Male,19.0,Portland,No,10,0.0,10,3,30,4.0,
+122281,2024-02-29,BF1549,Clothing,Female,24.0,Portland,No,130,0.0,130,1,130,,The product had excellent quality.
+194787,2023-12-28,BF1548,Clothing,Male,28.0,New Jersey,No,65,0.0,65,5,325,5.0,Premium quality as usual.
+169823,2024-09-23,BF1554,Ornaments,Female,24.0,New Jersey,No,20,0.0,20,5,100,4.0,The delivery team handled the product with care.
+121316,2023-11-17,BF1553,Ornaments,Male,19.0,Portland,No,50,0.0,50,2,100,,The product had excellent quality.
+121322,2023-11-23,BF1554,Ornaments,Male,32.0,Portland,No,20,0.0,20,1,20,3.0,Not as expected.
+131798,2024-03-14,BF1552,Ornaments,Male,31.0,New Jersey,No,45,0.0,45,1,45,5.0,The Product exhibits good design.
+140027,2024-10-28,BF1550,Clothing,Male,27.0,Portland,No,97,0.0,97,3,291,4.0,Discount deals was greatly appreciated.
+120890,2024-01-21,BF1548,Clothing,Male,,New Jersey,No,65,0.0,65,1,65,4.0,
+196490,2024-08-05,BF1546,Clothing,Female,18.0,New Jersey,No,118,0.0,118,1,118,5.0,The Product exhibits good design.
+188884,2024-05-25,BF1551,Ornaments,Female,24.0,Portland,No,15,0.0,15,1,15,4.0,The product was delivered quickly.
+165754,2024-10-20,BF1551,Ornaments,Male,27.0,New Jersey,No,15,0.0,15,3,45,4.0,Discount deals was greatly appreciated.
+136104,2024-03-03,BF1550,Clothing,Male,35.0,Portland,No,97,0.0,97,1,97,2.0,
+129883,2024-01-23,BF1551,Ornaments,Female,,New Jersey,No,15,0.0,15,1,15,4.0,
+148134,2024-06-01,BF1550,Clothing,Female,,Portland,No,97,0.0,97,2,194,5.0,Discount deals was greatly appreciated.
+199530,2023-12-19,BF1552,Ornaments,Male,23.0,Portland,No,45,0.0,45,1,45,5.0,The product had excellent quality.
+199648,2024-05-26,BF1548,Clothing,Female,24.0,Portland,No,65,0.0,65,1,65,4.0,Great design is one of the major positives of this product.
+197655,2024-05-04,BF1548,Clothing,Male,30.0,New Jersey,No,65,0.0,65,1,65,4.0,Incredible detailing was clearly evident.
+149654,2024-09-21,BF1550,Clothing,Male,30.0,Portland,No,97,,97,1,97,1.0,There is clear evidence of subpar detailing.
+170208,2024-07-28,BF1550,Clothing,Male,30.0,Portland,No,97,,97,1,97,4.0,Premium quality as usual.
+185391,2024-01-15,BF1544,Other,Male,28.0,Portland,No,9,0.0,9,1,9,5.0,The product was affordable here compared to other brands.
+177474,2024-06-08,BF1551,Ornaments,Male,20.0,New Jersey,No,15,0.0,15,1,15,4.0,Incredible detailing was clearly evident.
+125136,2024-11-02,BF1554,Ornaments,Female,24.0,New Jersey,No,20,0.0,20,4,80,5.0,The product was affordable here compared to other brands.
+124265,2024-03-07,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,1,100,1.0,
+182029,2023-12-02,BF1548,Clothing,Male,30.0,Portland,No,65,0.0,65,1,65,3.0,The handling was questionable but incurred only minute damages.
+180239,2024-10-27,BF1555,Other,Male,30.0,New Jersey,No,23,0.0,23,2,46,3.0,
+153079,2024-07-17,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,2,130,5.0,
+198168,2024-08-18,BF1547,Ornaments,Male,22.0,Portland,No,32,0.0,32,2,64,3.0,It was ok.
+169007,2023-12-10,BF1551,Ornaments,Male,28.0,Portland,No,15,0.0,15,1,15,,
+166454,2024-01-24,BF1551,Ornaments,Male,34.0,New Jersey,No,15,0.0,15,1,15,2.0,The product had poor quality.
+141745,2024-09-29,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,1,65,2.0,There is clear evidence of subpar detailing.
+132168,2024-04-20,BF1550,Clothing,Female,24.0,New Jersey,No,97,0.0,97,1,97,3.0,The handling was questionable but incurred only minute damages.
+178347,2024-09-04,BF1545,Other,Male,18.0,New Jersey,No,10,0.0,10,1,10,5.0,The Product exhibits good design.
+133911,2024-03-30,BF1553,Ornaments,Female,19.0,Portland,No,50,0.0,50,1,50,3.0,
+183454,2024-09-16,BF1544,Other,Female,24.0,Portland,No,9,0.0,9,1,9,5.0,The product was affordable here compared to other brands.
+143666,2024-01-09,BF1550,Clothing,Male,,New Jersey,No,97,0.0,97,2,194,4.0,The delivery team handled the product with care.
+122017,2024-09-23,BF1551,Ornaments,Male,35.0,Portland,No,15,0.0,15,1,15,2.0,Waste of Money.
+132548,2024-07-07,BF1555,Other,Female,31.0,New Jersey,No,23,0.0,23,1,23,,Exquisite craftsmanship here is absolutely appreciated.
+188297,2024-03-21,BF1548,Clothing,Male,30.0,Portland,No,65,0.0,65,1,65,4.0,
+133252,2024-01-08,BF1544,Other,Male,33.0,New Jersey,No,9,0.0,9,1,9,3.0,Expected much better
+121707,2024-07-20,BF1553,Ornaments,Female,22.0,Portland,No,50,0.0,50,1,50,3.0,It was ok.
+198934,2024-04-02,BF1551,Ornaments,Female,25.0,Portland,No,15,0.0,15,1,15,1.0,"Unfortunately, the delivery was late."
+184584,2023-12-10,BF1554,Ornaments,Male,30.0,New Jersey,No,20,0.0,20,3,60,4.0,Premium quality as usual.
+164123,2024-08-28,BF1551,Ornaments,Female,35.0,Portland,No,15,0.0,15,1,15,3.0,Expected much better
+184921,2024-10-08,BF1554,Ornaments,Female,26.0,New Jersey,No,20,0.0,20,850,17000,2.0,The product had an underwhelming design.
+179922,2023-11-21,BF1551,Ornaments,Male,30.0,Portland,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+188570,2024-06-11,BF1544,Other,Female,30.0,New Jersey,No,9,0.0,9,5,45,5.0,Lack of delivery delays is greatly appreciated.
+142452,2024-03-03,BF1547,Ornaments,Female,34.0,New Jersey,No,32,0.0,32,1,32,3.0,Had slight delays but the product was in good shape.
+128820,2024-02-15,BF1551,Ornaments,Male,35.0,Portland,No,15,0.0,15,2,30,5.0,The Product exhibits good design.
+121639,2024-03-23,BF1548,Clothing,Male,18.0,Portland,No,65,0.0,65,1,65,1.0,Clear delays in delivery.
+178441,2024-04-17,BF1545,Other,Female,25.0,New Jersey,No,10,0.0,10,2,20,5.0,The product had excellent quality.
+152714,2023-12-26,BF1544,Other,Female,23.0,Portland,No,9,0.0,9,1,9,5.0,
+151211,2024-05-18,BF1548,Clothing,Male,21.0,Portland,No,65,0.0,65,2,130,1.0,The product had an underwhelming design.
+178262,2024-03-27,BF1548,Clothing,Female,28.0,New Jersey,No,65,0.0,65,3,195,4.0,The delivery team handled the product with care.
+155582,2024-07-30,BF1543,Clothing,Female,26.0,Portland,No,100,0.0,100,1,100,1.0,Careless handling by the delivery team.
+137253,2024-01-01,BF1548,Clothing,Male,,New Jersey,No,65,0.0,65,1,65,5.0,The product was affordable here compared to other brands.
+135016,2024-03-06,BF1551,Ornaments,Male,20.0,Portland,No,15,0.0,15,2,30,,The product was delivered quickly.
+193351,2024-08-21,BF1547,Ornaments,Male,,New Jersey,No,32,0.0,32,1,32,1.0,Never buying from here again.
+193251,2024-05-22,BF1551,Ornaments,Male,,New Jersey,No,15,0.0,15,1,15,4.0,
+151408,2024-07-27,BF1551,Ornaments,Male,18.0,New Jersey,No,15,0.0,15,1,15,,There is clear evidence of subpar detailing.
+135119,2024-09-29,BF1551,Ornaments,Male,22.0,Portland,No,15,,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+143803,2024-02-21,BF1555,Other,Female,29.0,New Jersey,No,23,0.0,23,1,23,4.0,
+152321,2024-02-15,BF1551,Ornaments,Male,20.0,New Jersey,No,15,0.0,15,3,45,5.0,The product was affordable here compared to other brands.
+129425,2024-10-11,BF1544,Other,Male,35.0,Portland,No,9,,9,3,27,,Discount deals was greatly appreciated.
+178693,2024-10-09,BF1544,Other,Male,18.0,New Jersey,No,9,0.0,9,1,9,5.0,
+156510,2024-06-06,BF1545,Other,Male,27.0,Portland,No,10,0.0,10,1,10,5.0,Incredible detailing was clearly evident.
+142678,2024-04-14,BF1550,Clothing,Male,23.0,New Jersey,No,97,0.0,97,1,97,3.0,The handling was questionable but incurred only minute damages.
+165130,2024-08-11,BF1548,Clothing,Female,29.0,New Jersey,No,65,0.0,65,3,195,1.0,"Unfortunately, the delivery was late."
+173359,2024-01-12,BF1545,Other,Male,21.0,Portland,No,10,0.0,10,1,10,5.0,Exquisite craftsmanship here is absolutely appreciated.
+131139,2024-06-12,BF1554,Ornaments,Male,18.0,Portland,No,20,0.0,20,3,60,2.0,The promotion quality does not match the product
+185824,2024-10-10,BF1552,Ornaments,Male,,New Jersey,No,45,0.0,45,1,45,,Exquisite craftsmanship here is absolutely appreciated.
+169904,2024-06-25,BF1551,Ornaments,Female,23.0,New Jersey,No,15,0.0,15,1,15,,Lack of delivery delays is greatly appreciated.
+169703,2024-04-20,BF1544,Other,Male,18.0,New Jersey,No,9,,9,1,9,5.0,Great design is one of the major positives of this product.
+138298,2024-10-02,BF1554,Ornaments,Female,35.0,Portland,No,20,0.0,20,1,20,4.0,Discount deals was greatly appreciated.
+184435,2024-01-31,BF1548,Clothing,Male,34.0,New Jersey,No,65,0.0,65,4,260,2.0,Waste of Money.
+199938,2024-09-02,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,1,9,4.0,
+133529,2024-08-06,BF1549,Clothing,Male,19.0,Portland,No,130,0.0,130,1,130,4.0,Premium quality as usual.
+122862,2024-03-06,BF1549,Clothing,Male,23.0,Portland,No,130,0.0,130,1,130,2.0,Waste of Money.
+137448,2024-02-21,BF1551,Ornaments,Male,29.0,New Jersey,No,15,0.0,15,1,15,5.0,Exquisite craftsmanship here is absolutely appreciated.
+180972,2023-11-07,BF1547,Ornaments,Male,,New Jersey,No,32,0.0,32,3,96,1.0,
+150100,2024-02-19,BF1551,Ornaments,Male,18.0,New Jersey,No,15,0.0,15,1,15,4.0,The delivery team handled the product with care.
+165013,2023-12-17,BF1550,Clothing,Female,20.0,Portland,No,97,0.0,97,2,194,4.0,The product was delivered quickly.
+178802,2024-09-28,BF1546,Clothing,Male,18.0,Portland,No,118,0.0,118,1,118,5.0,The Product exhibits good design.
+183352,2024-05-17,BF1548,Clothing,Male,29.0,New Jersey,No,65,0.0,65,2,130,5.0,The product was delivered quickly.
+195281,2024-08-25,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,1,65,5.0,The product had excellent quality.
+120835,2024-03-17,BF1544,Other,Male,28.0,New Jersey,No,9,0.0,9,1,9,,The Product exhibits good design.
+158527,2024-01-23,BF1545,Other,Female,28.0,New Jersey,No,10,0.0,10,5,50,5.0,Premium quality as usual.
+193964,2024-02-29,BF1545,Other,Male,30.0,New Jersey,No,10,0.0,10,5,50,5.0,Lack of delivery delays is greatly appreciated.
+172953,2024-03-26,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,1,65,4.0,Great design is one of the major positives of this product.
+131168,2024-02-06,BF1555,Other,Male,23.0,New Jersey,No,23,0.0,23,1,23,5.0,Incredible detailing was clearly evident.
+137946,2024-02-13,BF1551,Ornaments,Female,29.0,Portland,No,15,0.0,15,1,15,5.0,Premium quality as usual.
+139715,2024-10-19,BF1544,Other,Male,23.0,Portland,No,9,0.0,9,1,9,3.0,Had slight delays but the product was in good shape.
+134280,2023-11-09,BF1551,Ornaments,Female,33.0,Portland,No,15,0.0,15,1,15,1.0,Careless handling by the delivery team.
+198003,2024-07-22,BF1547,Ornaments,Female,28.0,Portland,No,32,0.0,32,1,32,4.0,Premium quality as usual.
+151736,2024-06-14,BF1548,Clothing,Male,,Portland,No,65,0.0,65,1,65,5.0,Premium quality as usual.
+144075,2024-05-14,BF1550,Clothing,Male,28.0,New Jersey,No,97,0.0,97,1,97,4.0,
+182423,2024-05-16,BF1551,Ornaments,Male,25.0,Portland,No,15,0.0,15,3,45,4.0,
+146674,2024-10-12,BF1548,Clothing,Male,30.0,New Jersey,No,65,0.0,65,5,325,2.0,The product had an underwhelming design.
+189782,2024-07-26,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,1,65,2.0,"Unfortunately, the delivery was late."
+147137,2024-03-29,BF1549,Clothing,Male,35.0,Portland,No,130,0.0,130,3,390,1.0,Low quality products are a usual here these days.
+190104,2024-08-03,BF1548,Clothing,Male,,Portland,No,65,,65,2,130,3.0,Had slight delays but the product was in good shape.
+195800,2024-07-07,BF1550,Clothing,Male,31.0,New Jersey,No,97,0.0,97,1,97,2.0,
+192615,2024-09-11,BF1549,Clothing,Male,19.0,New Jersey,No,130,0.0,130,2,260,,Never buying from here again.
+127861,2024-04-09,BF1552,Ornaments,Female,29.0,Portland,No,45,0.0,45,4,180,5.0,Great design is one of the major positives of this product.
+142972,2024-07-18,BF1548,Clothing,Female,21.0,Portland,No,65,0.0,65,2,130,3.0,It was ok.
+185974,2023-11-19,BF1548,Clothing,Female,35.0,New Jersey,No,65,0.0,65,1,65,5.0,Great design is one of the major positives of this product.
+184236,2023-12-02,BF1551,Ornaments,Female,23.0,Portland,No,15,0.0,15,1,15,1.0,The product is not as advertised.
+163454,2024-03-04,BF1553,Ornaments,Male,23.0,New Jersey,No,50,0.0,50,1,50,2.0,Careless handling by the delivery team.
+132298,2024-02-16,BF1543,Clothing,Female,32.0,Portland,No,100,0.0,100,3,300,2.0,There is clear evidence of subpar detailing.
+197085,2024-05-07,BF1545,Other,Male,25.0,New Jersey,No,10,0.0,10,2,20,1.0,Never buying from here again.
+178983,2024-10-30,BF1551,Ornaments,Male,34.0,Portland,No,15,0.0,15,1,15,1.0,There is clear evidence of subpar detailing.
+195029,2024-09-05,BF1545,Other,Male,24.0,Portland,No,10,0.0,10,1,10,5.0,Great design is one of the major positives of this product.
+169298,2023-11-26,BF1552,Ornaments,Male,33.0,Portland,No,45,0.0,45,1,45,5.0,Exquisite craftsmanship here is absolutely appreciated.
+141498,2024-09-24,BF1549,Clothing,Female,27.0,Portland,No,130,0.0,130,1,130,5.0,The product was delivered quickly.
+153111,2024-02-08,BF1551,Ornaments,Female,22.0,Portland,No,15,0.0,15,3,45,5.0,The product was affordable here compared to other brands.
+130236,2024-03-11,BF1551,Ornaments,Female,30.0,Portland,No,15,0.0,15,1,15,5.0,The delivery team handled the product with care.
+120824,2024-01-03,BF1546,Clothing,Male,21.0,Portland,No,118,0.0,118,1,118,,Exquisite craftsmanship here is absolutely appreciated.
+163314,2024-03-31,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,1,65,3.0,Had slight delays but the product was in good shape.
+155426,2024-09-14,BF1553,Ornaments,Male,31.0,New Jersey,No,50,0.0,50,1,50,1.0,"Unfortunately, the delivery was late."
+179708,2023-12-06,BF1546,Clothing,Male,20.0,Portland,No,118,0.0,118,1,118,4.0,The Product exhibits good design.
+187614,2024-10-04,BF1550,Clothing,Female,32.0,New Jersey,No,97,0.0,97,4,388,3.0,Had slight delays but the product was in good shape.
+166932,2023-12-15,BF1543,Clothing,Male,33.0,New Jersey,No,100,0.0,100,2,200,1.0,The product had poor quality.
+150529,2024-02-07,BF1547,Ornaments,Female,20.0,New Jersey,No,32,0.0,32,1,32,4.0,Incredible detailing was clearly evident.
+160282,2023-12-13,BF1551,Ornaments,Male,28.0,Portland,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+143818,2024-06-18,BF1552,Ornaments,Female,27.0,New Jersey,No,45,0.0,45,1,45,4.0,Great design is one of the major positives of this product.
+124791,2023-12-04,BF1545,Other,Male,32.0,Portland,No,10,0.0,10,3,30,5.0,
+174447,2024-10-18,BF1551,Ornaments,Male,20.0,New Jersey,No,15,0.0,15,1,15,4.0,Exquisite craftsmanship here is absolutely appreciated.
+176633,2024-10-23,BF1555,Other,Male,30.0,Portland,No,23,0.0,23,3,69,,Discount deals was greatly appreciated.
+121658,2024-02-11,BF1549,Clothing,Male,20.0,Portland,No,130,0.0,130,2,260,4.0,Discount deals was greatly appreciated.
+187123,2024-03-26,BF1544,Other,Female,27.0,New Jersey,No,9,0.0,9,1,9,4.0,Discount deals was greatly appreciated.
+132904,2024-09-14,BF1555,Other,Male,,New Jersey,No,23,0.0,23,1,23,4.0,Great design is one of the major positives of this product.
+146372,2024-03-26,BF1543,Clothing,Male,30.0,Portland,No,100,0.0,100,1,100,4.0,The Product exhibits good design.
+152816,2024-01-22,BF1554,Ornaments,Male,24.0,Portland,No,20,0.0,20,1,20,1.0,Never buying from here again.
+125540,2024-05-12,BF1551,Ornaments,Female,28.0,New Jersey,No,15,0.0,15,1,15,,
+170868,2023-11-12,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,2,130,,"Unfortunately, the delivery was late."
+189443,2023-12-26,BF1546,Clothing,Male,23.0,New Jersey,No,118,0.0,118,1,118,3.0,Had slight delays but the product was in good shape.
+142582,2024-01-17,BF1550,Clothing,Male,23.0,Portland,No,97,,97,1,97,4.0,The product was affordable here compared to other brands.
+134922,2024-08-24,BF1544,Other,Female,34.0,Portland,No,9,0.0,9,1,9,3.0,Not as expected.
+189790,2024-05-24,BF1548,Clothing,Male,32.0,Portland,No,65,,65,1,65,3.0,Had slight delays but the product was in good shape.
+199636,2024-07-03,BF1554,Ornaments,Male,23.0,Portland,No,20,0.0,20,4,80,3.0,Nothing too special.
+154346,2024-06-25,BF1544,Other,Male,32.0,New Jersey,No,9,0.0,9,3,27,4.0,Exquisite craftsmanship here is absolutely appreciated.
+166368,2024-10-23,BF1554,Ornaments,Male,28.0,New Jersey,No,20,0.0,20,1,20,1.0,Clear delays in delivery.
+124702,2024-01-05,BF1551,Ornaments,Female,30.0,Portland,No,15,0.0,15,2,30,,The product had poor quality.
+131464,2024-01-10,BF1547,Ornaments,Female,28.0,Portland,No,32,0.0,32,4,128,4.0,Lack of delivery delays is greatly appreciated.
+132076,2024-06-21,BF1543,Clothing,Male,27.0,New Jersey,No,100,0.0,100,1,100,3.0,Nothing too special.
+153501,2023-11-28,BF1550,Clothing,Male,20.0,Portland,No,97,0.0,97,1,97,5.0,The product was affordable here compared to other brands.
+175367,2024-04-02,BF1548,Clothing,Female,23.0,Portland,No,65,0.0,65,1,65,4.0,
+191315,2024-07-14,BF1550,Clothing,Male,34.0,Portland,No,97,0.0,97,2,194,4.0,Premium quality as usual.
+134097,2024-04-25,BF1552,Ornaments,Female,24.0,Portland,No,45,0.0,45,2,90,4.0,Lack of delivery delays is greatly appreciated.
+144378,2024-10-28,BF1551,Ornaments,Female,20.0,New Jersey,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+145216,2024-05-04,BF1548,Clothing,Male,30.0,Portland,No,65,0.0,65,1,65,4.0,The product had excellent quality.
+138630,2024-04-08,BF1549,Clothing,Female,31.0,Portland,No,130,0.0,130,1,130,3.0,
+166585,2024-06-08,BF1544,Other,Female,19.0,Portland,No,9,0.0,9,1,9,,The promotion quality does not match the product
+139589,2024-06-20,BF1553,Ornaments,Male,32.0,New Jersey,No,50,0.0,50,1,50,4.0,Discount deals was greatly appreciated.
+168640,2023-11-22,BF1543,Clothing,Male,21.0,New Jersey,No,100,0.0,100,1,100,3.0,Had slight delays but the product was in good shape.
+121824,2024-09-22,BF1546,Clothing,Female,32.0,Portland,No,118,0.0,118,1,118,,Had slight delays but the product was in good shape.
+129507,2024-04-20,BF1543,Clothing,Female,33.0,Portland,No,100,0.0,100,1,100,5.0,Incredible detailing was clearly evident.
+190476,2024-01-13,BF1548,Clothing,Male,26.0,New Jersey,No,65,0.0,65,1,65,,The promotion quality does not match the product
+137953,2024-10-07,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,,Never buying from here again.
+125048,2024-04-08,BF1549,Clothing,Male,32.0,New Jersey,No,130,0.0,130,1,130,5.0,Discount deals was greatly appreciated.
+183032,2023-11-05,BF1548,Clothing,Male,24.0,Portland,No,65,0.0,65,5,325,4.0,Incredible detailing was clearly evident.
+168123,2024-09-14,BF1544,Other,Female,28.0,Portland,No,9,0.0,9,1,9,4.0,The delivery team handled the product with care.
+122119,2024-04-11,BF1549,Clothing,Female,21.0,Portland,No,130,0.0,130,5,650,4.0,Lack of delivery delays is greatly appreciated.
+197114,2024-02-08,BF1546,Clothing,Male,30.0,Portland,No,118,0.0,118,2,236,4.0,Discount deals was greatly appreciated.
+149401,2024-05-30,BF1549,Clothing,Female,18.0,New Jersey,No,130,0.0,130,1,130,2.0,The promotion quality does not match the product
+128772,2024-04-03,BF1545,Other,Female,31.0,New Jersey,No,10,0.0,10,3,30,4.0,Discount deals was greatly appreciated.
+199903,2024-07-20,BF1544,Other,Male,19.0,Portland,No,9,0.0,9,1,9,1.0,The promotion quality does not match the product
+171155,2024-02-03,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,1,9,4.0,The delivery team handled the product with care.
+123784,2023-11-05,BF1551,Ornaments,Female,20.0,Portland,No,15,,15,1,15,4.0,Discount deals was greatly appreciated.
+191607,2024-10-17,BF1548,Clothing,Female,25.0,Portland,No,65,0.0,65,1,65,,
+159038,2023-12-17,BF1555,Other,Male,18.0,New Jersey,No,23,0.0,23,3,69,4.0,The product was affordable here compared to other brands.
+150492,2024-04-26,BF1548,Clothing,Male,31.0,Portland,No,65,0.0,65,1,65,,
+150425,2024-10-18,BF1545,Other,Male,27.0,Portland,No,10,0.0,10,2,20,4.0,Premium quality as usual.
+169640,2024-08-15,BF1551,Ornaments,Male,28.0,Portland,No,15,0.0,15,1,15,4.0,The product had excellent quality.
+165764,2024-08-03,BF1544,Other,Female,30.0,New Jersey,No,9,0.0,9,1,9,4.0,Lack of delivery delays is greatly appreciated.
+146469,2023-12-29,BF1548,Clothing,Male,21.0,New Jersey,No,65,0.0,65,4,260,5.0,The product was affordable here compared to other brands.
+133941,2024-04-15,BF1544,Other,Male,19.0,New Jersey,No,9,0.0,9,1,9,1.0,The product is not as advertised.
+175719,2024-03-27,BF1549,Clothing,Female,33.0,Portland,No,130,0.0,130,1,130,3.0,Not as expected.
+194499,2024-06-22,BF1547,Ornaments,Male,24.0,New Jersey,No,32,0.0,32,1,32,4.0,Discount deals was greatly appreciated.
+181613,2024-08-02,BF1543,Clothing,Male,,New Jersey,No,100,0.0,100,4,400,,Discount deals was greatly appreciated.
+199768,2024-09-04,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,1,100,1.0,There is clear evidence of subpar detailing.
+164933,2024-01-01,BF1548,Clothing,Female,28.0,Portland,No,65,0.0,65,1,65,5.0,The product had excellent quality.
+130696,2024-05-18,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,4,36,4.0,
+160872,2023-11-25,BF1548,Clothing,Male,34.0,New Jersey,No,65,0.0,65,1,65,4.0,Incredible detailing was clearly evident.
+121711,2024-02-20,BF1554,Ornaments,Male,23.0,New Jersey,No,20,0.0,20,1,20,5.0,The product was delivered quickly.
+168685,2024-09-12,BF1544,Other,Male,27.0,New Jersey,No,9,0.0,9,4,36,3.0,Average product
+137337,2024-01-07,BF1552,Ornaments,Male,19.0,New Jersey,No,45,0.0,45,1,45,4.0,
+122503,2023-12-05,BF1554,Ornaments,Male,19.0,New Jersey,No,20,0.0,20,2,40,,Lack of delivery delays is greatly appreciated.
+162523,2024-07-22,BF1549,Clothing,Male,28.0,New Jersey,No,130,0.0,130,1,130,,The delivery team handled the product with care.
+185983,2024-07-21,BF1543,Clothing,Male,30.0,Portland,No,100,0.0,100,4,400,4.0,The product was affordable here compared to other brands.
+148088,2024-10-03,BF1551,Ornaments,Male,29.0,Portland,No,15,0.0,15,1,15,1.0,"Unfortunately, the delivery was late."
+167328,2024-02-29,BF1550,Clothing,Male,26.0,New Jersey,No,97,0.0,97,1,97,4.0,Incredible detailing was clearly evident.
+179602,2024-05-06,BF1548,Clothing,Male,35.0,Portland,No,65,0.0,65,2,130,1.0,Careless handling by the delivery team.
+183033,2024-05-18,BF1548,Clothing,Male,,New Jersey,No,65,0.0,65,1,65,5.0,The delivery team handled the product with care.
+149834,2024-10-15,BF1546,Clothing,Female,20.0,Portland,No,118,0.0,118,1,118,5.0,Discount deals was greatly appreciated.
+184430,2024-05-11,BF1549,Clothing,Male,,New Jersey,No,130,0.0,130,1,130,3.0,Had slight delays but the product was in good shape.
+146381,2024-06-25,BF1548,Clothing,Male,27.0,Portland,No,65,0.0,65,1,65,2.0,Clear delays in delivery.
+187391,2024-03-24,BF1547,Ornaments,Male,20.0,Portland,No,32,0.0,32,1,32,5.0,
+185274,2024-09-11,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,1.0,Waste of Money.
+121585,2024-10-11,BF1554,Ornaments,Female,27.0,New Jersey,No,20,0.0,20,1,20,3.0,Nothing too special.
+199443,2024-03-21,BF1550,Clothing,Male,30.0,New Jersey,No,97,0.0,97,1200,116400,4.0,The product was delivered quickly.
+156049,2024-08-16,BF1550,Clothing,Male,19.0,New Jersey,No,97,0.0,97,3,291,5.0,The product had excellent quality.
+155514,2024-03-18,BF1551,Ornaments,Female,24.0,Portland,No,15,0.0,15,1,15,3.0,Had slight delays but the product was in good shape.
+164768,2024-07-22,BF1551,Ornaments,Female,25.0,Portland,No,15,0.0,15,1,15,5.0,The product was delivered quickly.
+123525,2024-01-17,BF1554,Ornaments,Male,25.0,Portland,No,20,0.0,20,1,20,5.0,Premium quality as usual.
+150999,2024-09-22,BF1552,Ornaments,Female,35.0,New Jersey,No,45,0.0,45,1,45,2.0,Clear delays in delivery.
+190603,2024-10-10,BF1555,Other,Male,34.0,New Jersey,No,23,0.0,23,1,23,5.0,Great design is one of the major positives of this product.
+124503,2023-11-23,BF1551,Ornaments,Male,21.0,New Jersey,No,15,0.0,15,1,15,,Exquisite craftsmanship here is absolutely appreciated.
+168414,2024-03-18,BF1551,Ornaments,Female,34.0,Portland,No,15,0.0,15,3,45,,Average product
+157755,2024-05-22,BF1548,Clothing,Male,,New Jersey,No,65,0.0,65,1,65,4.0,
+132844,2024-02-09,BF1548,Clothing,Male,31.0,Portland,No,65,0.0,65,1,65,3.0,The handling was questionable but incurred only minute damages.
+121891,2024-07-24,BF1548,Clothing,Male,18.0,Portland,No,65,0.0,65,2,130,4.0,Incredible detailing was clearly evident.
+126246,2023-11-21,BF1551,Ornaments,Female,31.0,New Jersey,No,15,0.0,15,3,45,5.0,The product was delivered quickly.
+152230,2024-03-13,BF1548,Clothing,Male,26.0,New Jersey,No,65,0.0,65,4,260,1.0,Never buying from here again.
+131523,2024-06-10,BF1545,Other,Female,28.0,New Jersey,No,10,0.0,10,1,10,2.0,Low quality products are a usual here these days.
+185197,2024-07-04,BF1552,Ornaments,Male,24.0,Portland,No,45,0.0,45,2,90,2.0,Waste of Money.
+138248,2024-04-01,BF1548,Clothing,Female,34.0,Portland,No,65,0.0,65,1,65,4.0,
+127258,2024-07-06,BF1551,Ornaments,Male,18.0,Portland,No,15,0.0,15,1,15,3.0,Had slight delays but the product was in good shape.
+199704,2023-12-13,BF1551,Ornaments,Male,35.0,New Jersey,No,15,0.0,15,1,15,,
+197451,2024-05-15,BF1550,Clothing,Male,28.0,Portland,No,97,0.0,97,1,97,3.0,The handling was questionable but incurred only minute damages.
+189292,2024-03-04,BF1551,Ornaments,Male,26.0,Portland,No,15,0.0,15,1,15,3.0,Average product
+190429,2024-11-02,BF1545,Other,Male,34.0,New Jersey,No,10,0.0,10,1,10,4.0,Exquisite craftsmanship here is absolutely appreciated.
+128273,2023-12-26,BF1550,Clothing,Male,32.0,New Jersey,No,97,0.0,97,1,97,1.0,Clear delays in delivery.
+166145,2023-12-25,BF1550,Clothing,Male,23.0,New Jersey,No,97,0.0,97,1,97,5.0,Discount deals was greatly appreciated.
+127188,2024-05-15,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,1,65,5.0,Incredible detailing was clearly evident.
+186176,2024-09-23,BF1543,Clothing,Male,24.0,Portland,No,100,0.0,100,1,100,1.0,Never buying from here again.
+173050,2024-07-07,BF1548,Clothing,Male,33.0,New Jersey,No,65,0.0,65,2,130,1.0,There is clear evidence of subpar detailing.
+197328,2024-09-03,BF1544,Other,Female,18.0,Portland,No,9,,9,2,18,5.0,
+153466,2023-12-04,BF1554,Ornaments,Female,28.0,Portland,No,20,0.0,20,1,20,3.0,Had slight delays but the product was in good shape.
+143047,2024-10-14,BF1548,Clothing,Female,32.0,Portland,No,65,0.0,65,2,130,5.0,Incredible detailing was clearly evident.
+178229,2024-01-19,BF1546,Clothing,Male,35.0,Portland,No,118,0.0,118,2,236,4.0,The product was affordable here compared to other brands.
+144211,2024-05-25,BF1552,Ornaments,Male,34.0,New Jersey,No,45,0.0,45,1,45,1.0,The product had an underwhelming design.
+178062,2024-08-03,BF1544,Other,Male,29.0,Portland,No,9,0.0,9,1,9,5.0,The product had excellent quality.
+122577,2023-12-01,BF1550,Clothing,Male,25.0,New Jersey,No,97,0.0,97,1,97,4.0,The product was delivered quickly.
+182330,2023-11-27,BF1548,Clothing,Male,20.0,Portland,No,65,0.0,65,1,65,4.0,
+160682,2024-02-04,BF1548,Clothing,Male,31.0,Portland,No,65,0.0,65,1,65,4.0,The product was affordable here compared to other brands.
+153049,2024-06-09,BF1545,Other,Male,27.0,Portland,No,10,0.0,10,2,20,3.0,Not as expected.
+122556,2024-09-22,BF1544,Other,Female,,New Jersey,No,9,0.0,9,1,9,5.0,
+159774,2024-01-24,BF1547,Ornaments,Male,,New Jersey,No,32,0.0,32,1,32,4.0,Premium quality as usual.
+167818,2024-07-05,BF1544,Other,Male,26.0,Portland,No,9,0.0,9,1,9,1.0,
+193688,2024-09-01,BF1549,Clothing,Male,34.0,New Jersey,No,130,0.0,130,4,520,2.0,Clear delays in delivery.
+199255,2023-12-31,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,4.0,Lack of delivery delays is greatly appreciated.
+170505,2024-03-14,BF1548,Clothing,Male,33.0,Portland,No,65,0.0,65,3,195,5.0,Incredible detailing was clearly evident.
+130202,2024-07-16,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,1,65,5.0,The product was delivered quickly.
+139484,2024-01-26,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,1,9,4.0,The product had excellent quality.
+176605,2024-09-24,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,4,400,2.0,Clear delays in delivery.
+148419,2024-07-04,BF1551,Ornaments,Female,18.0,New Jersey,No,15,0.0,15,3,45,5.0,
+189260,2024-08-03,BF1545,Other,Male,28.0,New Jersey,No,10,0.0,10,2,20,3.0,Average product
+197382,2024-10-06,BF1544,Other,Male,35.0,New Jersey,No,9,,9,1,9,3.0,It was ok.
+187057,2024-02-29,BF1543,Clothing,Male,18.0,New Jersey,No,100,0.0,100,1,100,1.0,Clear delays in delivery.
+192756,2024-04-01,BF1554,Ornaments,Male,21.0,Portland,No,20,0.0,20,1,20,5.0,The product was affordable here compared to other brands.
+143843,2024-02-13,BF1544,Other,Male,26.0,Portland,No,9,0.0,9,2,18,3.0,It was ok.
+163696,2024-03-12,BF1552,Ornaments,Male,21.0,New Jersey,No,45,0.0,45,1,45,4.0,The product had excellent quality.
+125747,2023-11-08,BF1547,Ornaments,Male,23.0,Portland,No,32,0.0,32,1,32,5.0,
+141005,2024-08-15,BF1546,Clothing,Male,20.0,New Jersey,No,118,0.0,118,1,118,3.0,It was ok.
+131308,2024-04-22,BF1549,Clothing,Male,18.0,Portland,No,130,0.0,130,1,130,1.0,Clear delays in delivery.
+190356,2024-06-17,BF1551,Ornaments,Male,31.0,Portland,No,15,0.0,15,500,7500,5.0,
+136767,2024-07-19,BF1548,Clothing,Male,33.0,New Jersey,No,65,0.0,65,1,65,5.0,Lack of delivery delays is greatly appreciated.
+162331,2024-03-25,BF1547,Ornaments,Male,34.0,Portland,No,32,0.0,32,1,32,2.0,Waste of Money.
+126411,2023-11-15,BF1548,Clothing,Male,24.0,Portland,No,65,,65,1,65,2.0,Careless handling by the delivery team.
+127244,2024-05-30,BF1549,Clothing,Male,23.0,New Jersey,No,130,0.0,130,1,130,,Low quality products are a usual here these days.
+155633,2023-11-12,BF1543,Clothing,Male,34.0,New Jersey,No,100,0.0,100,1,100,3.0,
+121798,2024-02-25,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,2,130,3.0,Expected much better
+190615,2024-07-07,BF1548,Clothing,Female,30.0,New Jersey,No,65,0.0,65,1,65,5.0,Exquisite craftsmanship here is absolutely appreciated.
+133472,2024-04-07,BF1550,Clothing,Male,21.0,New Jersey,No,97,0.0,97,1,97,4.0,
+140658,2024-10-10,BF1547,Ornaments,Male,30.0,Portland,No,32,0.0,32,1,32,5.0,
+194215,2024-03-06,BF1544,Other,Male,19.0,New Jersey,No,9,0.0,9,1,9,4.0,Great design is one of the major positives of this product.
+132332,2024-03-27,BF1551,Ornaments,Female,20.0,New Jersey,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+172156,2024-11-02,BF1543,Clothing,Male,23.0,New Jersey,No,100,,100,1,100,4.0,Great design is one of the major positives of this product.
+161377,2024-05-18,BF1549,Clothing,Male,33.0,New Jersey,No,130,0.0,130,1,130,1.0,Low quality products are a usual here these days.
+154680,2024-07-12,BF1545,Other,Male,34.0,Portland,No,10,0.0,10,1,10,5.0,The delivery team handled the product with care.
+182201,2023-12-30,BF1548,Clothing,Female,20.0,New Jersey,No,65,0.0,65,2,130,,The Product exhibits good design.
+139965,2024-10-17,BF1548,Clothing,Male,22.0,New Jersey,No,65,0.0,65,1,65,1.0,Careless handling by the delivery team.
+166490,2024-07-06,BF1543,Clothing,Male,35.0,New Jersey,No,100,0.0,100,1,100,2.0,Never buying from here again.
+129448,2024-01-15,BF1545,Other,Male,29.0,New Jersey,No,10,0.0,10,4,40,4.0,The delivery team handled the product with care.
+131778,2024-06-17,BF1551,Ornaments,Female,29.0,New Jersey,No,15,0.0,15,1,15,5.0,The product had excellent quality.
+183724,2024-08-28,BF1545,Other,Male,24.0,New Jersey,No,10,0.0,10,1,10,4.0,The delivery team handled the product with care.
+147185,2024-03-16,BF1548,Clothing,Male,23.0,Portland,No,65,0.0,65,1,65,1.0,Waste of Money.
+178401,2024-10-26,BF1544,Other,Female,29.0,New Jersey,No,9,,9,1,9,4.0,Premium quality as usual.
+125383,2024-09-09,BF1544,Other,Female,24.0,Portland,No,9,0.0,9,1,9,3.0,Expected much better
+120758,2024-05-04,BF1546,Clothing,Female,,New Jersey,No,118,0.0,118,1,118,4.0,Lack of delivery delays is greatly appreciated.
+164921,2024-01-10,BF1550,Clothing,Male,24.0,New Jersey,No,97,0.0,97,1,97,3.0,Had slight delays but the product was in good shape.
+137691,2024-02-19,BF1550,Clothing,Male,20.0,New Jersey,No,97,0.0,97,1,97,,Premium quality as usual.
+162196,2024-04-22,BF1548,Clothing,Male,23.0,New Jersey,No,65,0.0,65,1,65,5.0,The product was affordable here compared to other brands.
+195249,2024-03-03,BF1551,Ornaments,Female,29.0,Portland,No,15,0.0,15,1,15,4.0,The product had excellent quality.
+189714,2023-12-29,BF1546,Clothing,Male,29.0,New Jersey,No,118,0.0,118,2,236,,
+161381,2023-12-14,BF1552,Ornaments,Male,,Portland,No,45,0.0,45,1,45,2.0,The product had an underwhelming design.
+186655,2024-08-05,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,1,65,4.0,The product was affordable here compared to other brands.
+196779,2023-11-06,BF1551,Ornaments,Male,22.0,New Jersey,No,15,0.0,15,2,30,1.0,There is clear evidence of subpar detailing.
+140341,2024-01-10,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,1,65,4.0,The product had excellent quality.
+186995,2024-03-30,BF1543,Clothing,Male,26.0,New Jersey,No,100,0.0,100,1,100,5.0,The delivery team handled the product with care.
+128582,2024-09-28,BF1550,Clothing,Female,20.0,Portland,No,97,0.0,97,1,97,,The product was delivered quickly.
+168125,2024-10-21,BF1546,Clothing,Male,30.0,New Jersey,No,118,0.0,118,1,118,5.0,The delivery team handled the product with care.
+122496,2023-11-05,BF1552,Ornaments,Male,22.0,Portland,No,45,0.0,45,1,45,5.0,Great design is one of the major positives of this product.
+149690,2024-04-07,BF1548,Clothing,Female,27.0,Portland,No,65,0.0,65,1,65,5.0,
+155133,2024-01-12,BF1551,Ornaments,Male,34.0,Portland,No,15,0.0,15,1,15,,The product had excellent quality.
+168848,2023-11-29,BF1548,Clothing,Female,20.0,Portland,No,65,0.0,65,3,195,5.0,Premium quality as usual.
+130028,2024-08-17,BF1550,Clothing,Male,18.0,New Jersey,No,97,0.0,97,1,97,5.0,The delivery team handled the product with care.
+159936,2024-02-17,BF1548,Clothing,Female,18.0,Portland,No,65,0.0,65,1,65,4.0,
+128784,2024-01-10,BF1548,Clothing,Female,28.0,Portland,No,65,0.0,65,1,65,5.0,
+174982,2024-05-29,BF1551,Ornaments,Male,27.0,New Jersey,No,15,0.0,15,1,15,5.0,Lack of delivery delays is greatly appreciated.
+133928,2024-05-31,BF1547,Ornaments,Female,34.0,Portland,No,32,0.0,32,1,32,1.0,There is clear evidence of subpar detailing.
+167381,2024-04-04,BF1545,Other,Male,21.0,Portland,No,10,0.0,10,3,30,5.0,The delivery team handled the product with care.
+163560,2024-07-25,BF1550,Clothing,Male,24.0,Portland,No,97,0.0,97,1,97,1.0,Waste of Money.
+136377,2024-07-06,BF1552,Ornaments,Male,21.0,New Jersey,No,45,0.0,45,2,90,,The product was delivered quickly.
+176521,2023-12-09,BF1549,Clothing,Male,28.0,New Jersey,No,130,0.0,130,1,130,5.0,The product had excellent quality.
+149883,2024-02-01,BF1544,Other,Male,21.0,Portland,No,9,0.0,9,1,9,4.0,Great design is one of the major positives of this product.
+185799,2024-08-21,BF1554,Ornaments,Male,22.0,Portland,No,20,0.0,20,2,40,4.0,Incredible detailing was clearly evident.
+144249,2024-04-02,BF1551,Ornaments,Male,20.0,Portland,No,15,0.0,15,1,15,1.0,The product is not as advertised.
+156251,2024-08-22,BF1544,Other,Female,32.0,New Jersey,No,9,0.0,9,3,27,1.0,
+125472,2024-09-04,BF1551,Ornaments,Female,20.0,Portland,No,15,0.0,15,1,15,,
+145706,2023-12-06,BF1544,Other,Female,19.0,Portland,No,9,0.0,9,3,27,5.0,Discount deals was greatly appreciated.
+166596,2024-07-09,BF1551,Ornaments,Male,28.0,Portland,No,15,0.0,15,1,15,1.0,
+181594,2024-04-18,BF1544,Other,Male,18.0,New Jersey,No,9,0.0,9,5,45,5.0,
+144385,2024-08-21,BF1549,Clothing,Male,30.0,Portland,No,130,0.0,130,1,130,4.0,Lack of delivery delays is greatly appreciated.
+152768,2024-08-29,BF1548,Clothing,Male,22.0,New Jersey,No,65,0.0,65,1,65,5.0,The product was delivered quickly.
+129320,2024-06-05,BF1546,Clothing,Male,21.0,New Jersey,No,118,0.0,118,1,118,5.0,The product was delivered quickly.
+179664,2023-12-15,BF1551,Ornaments,Male,29.0,New Jersey,No,15,0.0,15,1,15,5.0,Exquisite craftsmanship here is absolutely appreciated.
+169599,2024-04-16,BF1547,Ornaments,Female,18.0,Portland,No,32,0.0,32,2,64,4.0,The Product exhibits good design.
+152682,2024-07-13,BF1543,Clothing,Female,28.0,New Jersey,No,100,0.0,100,3,300,5.0,The product was delivered quickly.
+161625,2024-10-16,BF1551,Ornaments,Male,25.0,Portland,No,15,0.0,15,1,15,4.0,Exquisite craftsmanship here is absolutely appreciated.
+156818,2024-01-23,BF1552,Ornaments,Female,30.0,New Jersey,No,45,0.0,45,1,45,5.0,
+149041,2024-01-15,BF1543,Clothing,Male,,Portland,No,100,,100,1,100,4.0,Exquisite craftsmanship here is absolutely appreciated.
+139877,2024-03-13,BF1548,Clothing,Male,22.0,Portland,No,65,0.0,65,3,195,,
+180686,2024-05-18,BF1548,Clothing,Female,28.0,New Jersey,No,65,0.0,65,3,195,1.0,The promotion quality does not match the product
+121741,2023-11-21,BF1548,Clothing,Male,34.0,Portland,No,65,0.0,65,2,130,1.0,"Unfortunately, the delivery was late."
+195342,2024-10-10,BF1550,Clothing,Male,23.0,Portland,No,97,0.0,97,1,97,4.0,Exquisite craftsmanship here is absolutely appreciated.
+180983,2024-03-11,BF1547,Ornaments,Male,26.0,New Jersey,No,32,0.0,32,1,32,4.0,The product had excellent quality.
+181964,2023-11-11,BF1544,Other,Female,21.0,New Jersey,No,9,0.0,9,1,9,4.0,The product was affordable here compared to other brands.
+167367,2024-10-01,BF1552,Ornaments,Female,20.0,New Jersey,No,45,0.0,45,1,45,2.0,"Unfortunately, the delivery was late."
+177042,2024-04-09,BF1551,Ornaments,Male,29.0,Portland,No,15,0.0,15,2,30,1.0,
+137757,2023-11-15,BF1543,Clothing,Male,26.0,New Jersey,No,100,0.0,100,1,100,5.0,Premium quality as usual.
+126396,2024-10-20,BF1553,Ornaments,Male,25.0,New Jersey,No,50,0.0,50,1,50,4.0,Lack of delivery delays is greatly appreciated.
+177948,2023-12-29,BF1548,Clothing,Female,,Portland,No,65,0.0,65,1,65,5.0,Discount deals was greatly appreciated.
+123202,2024-03-23,BF1551,Ornaments,Female,28.0,New Jersey,No,15,0.0,15,2,30,,The delivery team handled the product with care.
+198787,2024-05-21,BF1545,Other,Male,29.0,New Jersey,No,10,0.0,10,4,40,4.0,The Product exhibits good design.
+185322,2024-09-11,BF1544,Other,Male,20.0,Portland,No,9,0.0,9,2,18,5.0,Discount deals was greatly appreciated.
+167671,2024-05-23,BF1550,Clothing,Female,20.0,New Jersey,No,97,0.0,97,1,97,4.0,The delivery team handled the product with care.
+168762,2024-09-29,BF1551,Ornaments,Male,34.0,Portland,No,15,0.0,15,4,60,1.0,The product had poor quality.
+174791,2024-10-09,BF1547,Ornaments,Male,21.0,New Jersey,No,32,0.0,32,1,32,1.0,Clear delays in delivery.
+169716,2024-05-06,BF1543,Clothing,Male,24.0,New Jersey,No,100,0.0,100,1,100,4.0,The product was delivered quickly.
+194017,2024-04-13,BF1544,Other,Male,26.0,Portland,No,9,0.0,9,1,9,4.0,The product was delivered quickly.
+178178,2024-05-04,BF1551,Ornaments,Male,20.0,Portland,No,15,0.0,15,1,15,2.0,
+193575,2024-07-30,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,1,65,4.0,Exquisite craftsmanship here is absolutely appreciated.
+171350,2024-01-29,BF1554,Ornaments,Male,30.0,Portland,No,20,0.0,20,5,100,4.0,
+191357,2024-05-30,BF1548,Clothing,Male,34.0,New Jersey,No,65,0.0,65,4,260,5.0,Exquisite craftsmanship here is absolutely appreciated.
+186276,2024-09-15,BF1554,Ornaments,Female,34.0,Portland,No,20,0.0,20,2,40,3.0,
+196196,2024-02-29,BF1545,Other,Male,19.0,New Jersey,No,10,0.0,10,1,10,5.0,The Product exhibits good design.
+147007,2024-02-04,BF1548,Clothing,Male,19.0,New Jersey,No,65,0.0,65,1,65,4.0,Lack of delivery delays is greatly appreciated.
+143050,2023-11-13,BF1548,Clothing,Male,27.0,New Jersey,No,65,0.0,65,3,195,5.0,
+191768,2024-04-23,BF1551,Ornaments,Female,22.0,New Jersey,No,15,0.0,15,1,15,3.0,Had slight delays but the product was in good shape.
+159441,2024-08-18,BF1549,Clothing,Male,,New Jersey,No,130,0.0,130,1,130,1.0,The product is not as advertised.
+120134,2024-05-30,BF1547,Ornaments,Female,27.0,Portland,No,32,0.0,32,1,32,,The handling was questionable but incurred only minute damages.
+147549,2024-08-10,BF1550,Clothing,Male,33.0,New Jersey,No,97,0.0,97,1,97,4.0,
+192358,2024-07-08,BF1548,Clothing,Female,22.0,New Jersey,No,65,0.0,65,1,65,3.0,Had slight delays but the product was in good shape.
+143133,2024-06-25,BF1550,Clothing,Male,32.0,New Jersey,No,97,0.0,97,1,97,5.0,The product was delivered quickly.
+197266,2024-10-13,BF1550,Clothing,Male,31.0,Portland,No,97,0.0,97,1,97,5.0,
+171724,2024-09-21,BF1549,Clothing,Male,35.0,New Jersey,No,130,0.0,130,1,130,5.0,
+185819,2024-09-01,BF1548,Clothing,Female,18.0,Portland,No,65,0.0,65,1,65,1.0,The product had an underwhelming design.
+153578,2024-08-15,BF1546,Clothing,Male,21.0,Portland,No,118,0.0,118,1,118,5.0,Exquisite craftsmanship here is absolutely appreciated.
+133862,2024-03-17,BF1543,Clothing,Male,35.0,New Jersey,No,100,0.0,100,1,100,3.0,Nothing too special.
+169649,2024-04-20,BF1551,Ornaments,Female,34.0,Portland,No,15,0.0,15,1,15,2.0,Clear delays in delivery.
+186106,2024-06-24,BF1544,Other,Female,32.0,New Jersey,No,9,0.0,9,1,9,,Great design is one of the major positives of this product.
+144283,2024-10-11,BF1544,Other,Male,,New Jersey,No,9,0.0,9,1,9,4.0,Exquisite craftsmanship here is absolutely appreciated.
+121767,2024-06-07,BF1549,Clothing,Female,25.0,New Jersey,No,130,0.0,130,3,390,3.0,
+159636,2024-04-09,BF1543,Clothing,Male,21.0,Portland,No,100,0.0,100,4,400,5.0,The product was affordable here compared to other brands.
+164052,2024-10-09,BF1554,Ornaments,Male,33.0,Portland,No,20,0.0,20,1,20,4.0,Discount deals was greatly appreciated.
+185758,2024-06-18,BF1544,Other,Male,19.0,New Jersey,No,9,0.0,9,2,18,5.0,Premium quality as usual.
+180171,2024-07-07,BF1543,Clothing,Female,35.0,New Jersey,No,100,0.0,100,1,100,4.0,The product was affordable here compared to other brands.
+128614,2024-02-27,BF1550,Clothing,Male,32.0,Portland,No,97,0.0,97,2,194,5.0,The product had excellent quality.
+187845,2024-04-23,BF1551,Ornaments,Male,25.0,New Jersey,No,15,0.0,15,2,30,1.0,
+198607,2024-09-29,BF1549,Clothing,Male,33.0,Portland,No,130,0.0,130,2,260,,The Product exhibits good design.
+131353,2024-01-25,BF1548,Clothing,Male,31.0,New Jersey,No,65,0.0,65,3,195,3.0,
+156485,2024-04-24,BF1554,Ornaments,Female,28.0,New Jersey,No,20,0.0,20,1,20,3.0,Had slight delays but the product was in good shape.
+184069,2024-09-05,BF1550,Clothing,Female,33.0,New Jersey,No,97,0.0,97,4,388,5.0,
+139315,2023-11-30,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,4.0,
+187622,2023-12-21,BF1551,Ornaments,Male,20.0,New Jersey,No,15,0.0,15,1,15,1.0,Waste of Money.
+195854,2024-04-11,BF1544,Other,Male,19.0,New Jersey,No,9,0.0,9,1,9,1.0,Careless handling by the delivery team.
+185532,2023-12-22,BF1547,Ornaments,Male,28.0,Portland,No,32,,32,1,32,3.0,The handling was questionable but incurred only minute damages.
+139185,2024-05-26,BF1553,Ornaments,Male,21.0,New Jersey,No,50,0.0,50,1,50,1.0,Careless handling by the delivery team.
+191765,2024-03-09,BF1555,Other,Female,19.0,Portland,No,23,0.0,23,2,46,4.0,
+167497,2024-06-09,BF1548,Clothing,Female,23.0,New Jersey,No,65,0.0,65,1,65,3.0,
+172829,2024-01-20,BF1551,Ornaments,Male,23.0,New Jersey,No,15,0.0,15,1,15,,The delivery team handled the product with care.
+132153,2024-07-06,BF1548,Clothing,Male,31.0,New Jersey,No,65,0.0,65,1,65,3.0,Expected much better
+136596,2023-11-21,BF1546,Clothing,Male,24.0,Portland,No,118,,118,1,118,,Never buying from here again.
+199066,2024-03-01,BF1547,Ornaments,Male,34.0,New Jersey,No,32,0.0,32,5,160,3.0,Expected much better
+163537,2023-12-29,BF1550,Clothing,Female,33.0,New Jersey,No,97,0.0,97,1,97,1.0,"Unfortunately, the delivery was late."
+156698,2024-01-21,BF1543,Clothing,Male,28.0,Portland,No,100,0.0,100,1,100,5.0,Discount deals was greatly appreciated.
+123851,2024-07-18,BF1546,Clothing,Male,27.0,Portland,No,118,0.0,118,4,472,5.0,Lack of delivery delays is greatly appreciated.
+141530,2023-11-11,BF1543,Clothing,Male,27.0,Portland,No,100,0.0,100,1,100,,Never buying from here again.
+173820,2024-02-13,BF1545,Other,Male,26.0,New Jersey,No,10,0.0,10,2,20,5.0,Discount deals was greatly appreciated.
+153533,2023-11-18,BF1544,Other,Male,25.0,New Jersey,No,9,0.0,9,1,9,5.0,Discount deals was greatly appreciated.
+183071,2024-03-05,BF1548,Clothing,Male,19.0,New Jersey,No,65,0.0,65,1,65,3.0,Had slight delays but the product was in good shape.
+153456,2024-10-23,BF1554,Ornaments,Male,24.0,Portland,No,20,0.0,20,2,40,3.0,Not as expected.
+166340,2023-12-20,BF1543,Clothing,Male,28.0,New Jersey,No,100,0.0,100,1,100,5.0,The product was affordable here compared to other brands.
+192535,2024-07-20,BF1547,Ornaments,Male,27.0,Portland,No,32,0.0,32,1,32,3.0,The handling was questionable but incurred only minute damages.
+120042,2024-09-29,BF1548,Clothing,Male,35.0,New Jersey,No,65,0.0,65,5,325,5.0,Great design is one of the major positives of this product.
+136316,2024-10-15,BF1554,Ornaments,Female,33.0,Portland,No,20,0.0,20,2,40,4.0,Incredible detailing was clearly evident.
+184059,2024-11-02,BF1554,Ornaments,Male,27.0,Portland,No,20,0.0,20,2,40,1.0,Careless handling by the delivery team.
+192848,2024-11-04,BF1544,Other,Male,27.0,New Jersey,No,9,0.0,9,1,9,4.0,Great design is one of the major positives of this product.
+191399,2024-06-09,BF1553,Ornaments,Female,22.0,Portland,No,50,0.0,50,2,100,1.0,The product is not as advertised.
+167444,2024-02-07,BF1550,Clothing,Female,20.0,Portland,No,97,0.0,97,4,388,2.0,The product had poor quality.
+167190,2024-05-29,BF1550,Clothing,Female,35.0,New Jersey,No,97,0.0,97,1,97,5.0,The product was delivered quickly.
+178632,2024-02-08,BF1554,Ornaments,Male,21.0,Portland,No,20,0.0,20,1,20,4.0,Great design is one of the major positives of this product.
+124419,2024-07-15,BF1549,Clothing,Female,27.0,Portland,No,130,0.0,130,1,130,4.0,Great design is one of the major positives of this product.
+135475,2024-10-20,BF1548,Clothing,Male,30.0,New Jersey,No,65,0.0,65,1,65,4.0,Incredible detailing was clearly evident.
+145843,2024-01-01,BF1544,Other,Male,29.0,Portland,No,9,0.0,9,2,18,4.0,Lack of delivery delays is greatly appreciated.
+169777,2023-11-16,BF1551,Ornaments,Male,22.0,New Jersey,No,15,0.0,15,1,15,3.0,The handling was questionable but incurred only minute damages.
+187569,2023-12-26,BF1545,Other,Male,32.0,Portland,No,10,0.0,10,1,10,2.0,
+149223,2024-09-14,BF1545,Other,Female,35.0,New Jersey,No,10,0.0,10,1,10,4.0,Exquisite craftsmanship here is absolutely appreciated.
+159784,2024-09-14,BF1550,Clothing,Female,23.0,Portland,No,97,0.0,97,1,97,5.0,Great design is one of the major positives of this product.
+174542,2023-11-21,BF1550,Clothing,Male,30.0,Portland,No,97,0.0,97,1,97,1.0,There is clear evidence of subpar detailing.
+133406,2024-09-01,BF1546,Clothing,Male,30.0,New Jersey,No,118,0.0,118,1,118,1.0,
+163316,2024-11-02,BF1553,Ornaments,Male,27.0,Portland,No,50,0.0,50,1,50,5.0,Discount deals was greatly appreciated.
+166179,2023-12-05,BF1546,Clothing,Male,33.0,Portland,No,118,0.0,118,3,354,1.0,"Unfortunately, the delivery was late."
+171543,2024-01-25,BF1543,Clothing,Male,20.0,New Jersey,No,100,0.0,100,1,100,5.0,Great design is one of the major positives of this product.
+180312,2023-11-13,BF1543,Clothing,Male,28.0,New Jersey,No,100,0.0,100,1,100,3.0,
+171142,2024-02-25,BF1543,Clothing,Female,34.0,Portland,No,100,0.0,100,1,100,,Exquisite craftsmanship here is absolutely appreciated.
+187769,2024-10-23,BF1548,Clothing,Male,32.0,Portland,No,65,0.0,65,1,65,5.0,Discount deals was greatly appreciated.
+141687,2024-06-30,BF1549,Clothing,Male,27.0,New Jersey,No,130,0.0,130,1,130,1.0,There is clear evidence of subpar detailing.
+156089,2024-03-05,BF1551,Ornaments,Female,24.0,Portland,No,15,0.0,15,1,15,3.0,Had slight delays but the product was in good shape.
+128005,2024-10-22,BF1543,Clothing,Female,33.0,Portland,No,100,0.0,100,1,100,1.0,The product had poor quality.
+193276,2024-09-16,BF1547,Ornaments,Male,28.0,New Jersey,No,32,0.0,32,3,96,1.0,The product had an underwhelming design.
+140815,2024-04-17,BF1550,Clothing,Male,35.0,Portland,No,97,0.0,97,1,97,4.0,The product had excellent quality.
+180002,2024-06-08,BF1554,Ornaments,Male,27.0,New Jersey,No,20,,20,1,20,5.0,The delivery team handled the product with care.
+197196,2024-10-10,BF1551,Ornaments,Female,33.0,Portland,No,15,0.0,15,1,15,1.0,"Unfortunately, the delivery was late."
+134608,2024-02-14,BF1549,Clothing,Female,31.0,Portland,No,130,0.0,130,3,390,5.0,
+198952,2024-07-01,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,1,65,3.0,Had slight delays but the product was in good shape.
+187397,2024-09-21,BF1545,Other,Male,30.0,Portland,No,10,0.0,10,1,10,1.0,
+128295,2023-12-31,BF1547,Ornaments,Male,26.0,Portland,No,32,0.0,32,3,96,3.0,The handling was questionable but incurred only minute damages.
+125522,2024-05-28,BF1545,Other,Female,20.0,Portland,No,10,0.0,10,1,10,4.0,Great design is one of the major positives of this product.
+190695,2024-10-15,BF1553,Ornaments,Male,18.0,New Jersey,No,50,0.0,50,1,50,1.0,The product had an underwhelming design.
+133283,2023-12-08,BF1544,Other,Male,19.0,Portland,No,9,,9,1,9,5.0,
+138249,2024-05-16,BF1550,Clothing,Male,26.0,New Jersey,No,97,0.0,97,1,97,4.0,
+167188,2024-06-30,BF1547,Ornaments,Female,33.0,New Jersey,No,32,0.0,32,1,32,5.0,Lack of delivery delays is greatly appreciated.
+126942,2024-01-13,BF1548,Clothing,Female,22.0,New Jersey,No,65,0.0,65,1,65,4.0,Lack of delivery delays is greatly appreciated.
+148371,2023-11-22,BF1549,Clothing,Male,24.0,New Jersey,No,130,0.0,130,2,260,,
+130879,2024-01-17,BF1543,Clothing,Female,35.0,Portland,No,100,0.0,100,1,100,4.0,The product was delivered quickly.
+165187,2024-10-02,BF1543,Clothing,Male,34.0,New Jersey,No,100,0.0,100,2,200,5.0,Discount deals was greatly appreciated.
+136880,2023-11-27,BF1545,Other,Female,23.0,New Jersey,No,10,0.0,10,1,10,2.0,There is clear evidence of subpar detailing.
+170327,2024-07-23,BF1551,Ornaments,Male,22.0,Portland,No,15,0.0,15,1,15,4.0,The product was delivered quickly.
+141864,2024-05-31,BF1550,Clothing,Male,29.0,Portland,No,97,0.0,97,1,97,2.0,
+167691,2024-01-24,BF1544,Other,Male,20.0,Portland,No,9,0.0,9,2,18,5.0,Great design is one of the major positives of this product.
+126827,2024-02-29,BF1552,Ornaments,Male,22.0,New Jersey,No,45,0.0,45,4,180,4.0,Discount deals was greatly appreciated.
+162899,2024-07-27,BF1549,Clothing,Male,34.0,Portland,No,130,0.0,130,1,130,,The handling was questionable but incurred only minute damages.
+123460,2024-03-09,BF1554,Ornaments,Male,32.0,Portland,No,20,0.0,20,1,20,,Exquisite craftsmanship here is absolutely appreciated.
+172400,2024-03-02,BF1544,Other,Male,18.0,New Jersey,No,9,0.0,9,1,9,4.0,The product was delivered quickly.
+195930,2024-09-17,BF1543,Clothing,Female,21.0,Portland,No,100,0.0,100,1,100,1.0,Never buying from here again.
+176669,2024-02-03,BF1549,Clothing,Male,31.0,New Jersey,No,130,0.0,130,1,130,3.0,Nothing too special.
+155131,2024-07-20,BF1550,Clothing,Female,25.0,Portland,No,97,0.0,97,1,97,4.0,Premium quality as usual.
+147450,2024-04-18,BF1543,Clothing,Male,23.0,New Jersey,No,100,0.0,100,2,200,3.0,The handling was questionable but incurred only minute damages.
+177559,2024-02-07,BF1548,Clothing,Male,28.0,Portland,No,65,0.0,65,1,65,4.0,The delivery team handled the product with care.
+190126,2024-04-12,BF1548,Clothing,Male,25.0,Portland,No,65,0.0,65,1,65,5.0,Lack of delivery delays is greatly appreciated.
+146505,2024-10-15,BF1543,Clothing,Male,26.0,New Jersey,No,100,0.0,100,1,100,5.0,The delivery team handled the product with care.
+166103,2024-06-12,BF1544,Other,Male,23.0,New Jersey,No,9,0.0,9,1,9,4.0,The delivery team handled the product with care.
+159008,2024-06-08,BF1548,Clothing,Male,24.0,New Jersey,No,65,0.0,65,1,65,4.0,Lack of delivery delays is greatly appreciated.
+133884,2023-12-15,BF1546,Clothing,Male,24.0,New Jersey,No,118,0.0,118,1,118,3.0,The handling was questionable but incurred only minute damages.
+172990,2024-01-31,BF1549,Clothing,Male,33.0,New Jersey,No,130,0.0,130,2,260,4.0,Lack of delivery delays is greatly appreciated.
+184362,2023-11-08,BF1551,Ornaments,Male,29.0,Portland,No,15,0.0,15,1,15,3.0,Average product
+197496,2024-06-04,BF1550,Clothing,Male,20.0,New Jersey,No,97,0.0,97,1,97,4.0,Incredible detailing was clearly evident.
+163299,2024-08-10,BF1543,Clothing,Male,24.0,New Jersey,No,100,0.0,100,2,200,4.0,Premium quality as usual.
+127177,2024-08-31,BF1552,Ornaments,Female,27.0,New Jersey,No,45,0.0,45,1,45,4.0,The product had excellent quality.
+158068,2024-09-28,BF1549,Clothing,Female,26.0,Portland,No,130,0.0,130,1,130,4.0,Exquisite craftsmanship here is absolutely appreciated.
+178831,2023-12-05,BF1554,Ornaments,Male,23.0,New Jersey,No,20,0.0,20,1,20,1.0,
+176774,2024-05-26,BF1548,Clothing,Female,28.0,New Jersey,No,65,0.0,65,1,65,4.0,The delivery team handled the product with care.
+130497,2024-05-06,BF1550,Clothing,Male,27.0,New Jersey,No,97,0.0,97,2,194,2.0,The promotion quality does not match the product
+141643,2024-10-03,BF1545,Other,Male,25.0,Portland,No,10,0.0,10,1,10,,Lack of delivery delays is greatly appreciated.
+144798,2024-08-03,BF1544,Other,Male,30.0,New Jersey,No,9,0.0,9,1,9,,Never buying from here again.
+134146,2024-04-06,BF1543,Clothing,Female,24.0,Portland,No,100,0.0,100,5,500,4.0,The Product exhibits good design.
+185486,2024-06-23,BF1547,Ornaments,Male,31.0,New Jersey,No,32,0.0,32,1,32,5.0,The delivery team handled the product with care.
+183376,2023-11-30,BF1545,Other,Female,35.0,Portland,No,10,0.0,10,1,10,4.0,
+185001,2024-07-20,BF1546,Clothing,Male,25.0,Portland,No,118,0.0,118,1,118,4.0,Premium quality as usual.
+174747,2023-11-26,BF1543,Clothing,Female,21.0,Portland,No,100,0.0,100,1,100,5.0,The product was affordable here compared to other brands.
+149776,2024-03-30,BF1551,Ornaments,Female,32.0,New Jersey,No,15,0.0,15,1,15,,There is clear evidence of subpar detailing.
+161097,2024-08-07,BF1546,Clothing,Male,25.0,Portland,No,118,,118,1,118,1.0,Waste of Money.
+199642,2024-04-01,BF1552,Ornaments,Male,35.0,New Jersey,No,45,0.0,45,3,135,,Careless handling by the delivery team.
+137117,2024-10-24,BF1551,Ornaments,Male,20.0,New Jersey,No,15,0.0,15,1,15,4.0,Lack of delivery delays is greatly appreciated.
+163640,2024-08-30,BF1548,Clothing,Male,23.0,Portland,No,65,0.0,65,1,65,4.0,The Product exhibits good design.
+188932,2024-04-11,BF1543,Clothing,Male,24.0,New Jersey,No,100,,100,1,100,2.0,There is clear evidence of subpar detailing.
+188555,2024-03-12,BF1549,Clothing,Male,25.0,New Jersey,No,130,0.0,130,5,650,4.0,Lack of delivery delays is greatly appreciated.
+125512,2023-12-04,BF1548,Clothing,Female,28.0,New Jersey,No,65,0.0,65,1,65,4.0,Great design is one of the major positives of this product.
+146396,2024-01-29,BF1549,Clothing,Male,19.0,New Jersey,No,130,0.0,130,1,130,4.0,Incredible detailing was clearly evident.
+132543,2024-01-13,BF1549,Clothing,Male,30.0,Portland,No,130,0.0,130,1,130,4.0,
+136044,2024-08-25,BF1554,Ornaments,Male,35.0,New Jersey,No,20,0.0,20,1,20,5.0,Premium quality as usual.
+142529,2024-08-07,BF1548,Clothing,Male,22.0,Portland,No,65,0.0,65,3,195,4.0,The product was delivered quickly.
+134450,2024-10-10,BF1550,Clothing,Female,24.0,New Jersey,No,97,0.0,97,2,194,5.0,Exquisite craftsmanship here is absolutely appreciated.
+182529,2024-04-08,BF1549,Clothing,Male,26.0,Portland,No,130,0.0,130,2,260,3.0,Nothing too special.
+142934,2024-02-01,BF1544,Other,Male,,Portland,No,9,0.0,9,3,27,2.0,Never buying from here again.
+149931,2024-10-18,BF1548,Clothing,Female,34.0,New Jersey,No,65,0.0,65,1,65,5.0,The delivery team handled the product with care.
+124116,2024-05-01,BF1548,Clothing,Male,30.0,New Jersey,No,65,0.0,65,3,195,2.0,Clear delays in delivery.
+127383,2023-12-30,BF1543,Clothing,Male,32.0,Portland,No,100,0.0,100,1,100,,Discount deals was greatly appreciated.
+199149,2023-12-11,BF1544,Other,Male,32.0,Portland,No,9,0.0,9,1,9,3.0,
+156564,2024-03-07,BF1550,Clothing,Female,28.0,Portland,No,97,0.0,97,1,97,4.0,The product was affordable here compared to other brands.
+193172,2023-11-05,BF1553,Ornaments,Male,22.0,Portland,No,50,0.0,50,1,50,2.0,
+125641,2024-10-02,BF1546,Clothing,Male,25.0,Portland,No,118,0.0,118,4,472,2.0,"Unfortunately, the delivery was late."
+187971,2024-02-09,BF1550,Clothing,Female,18.0,Portland,No,97,0.0,97,2,194,4.0,Lack of delivery delays is greatly appreciated.
+175203,2024-07-07,BF1554,Ornaments,Female,25.0,New Jersey,No,20,0.0,20,2,40,1.0,"Unfortunately, the delivery was late."
+187392,2024-08-05,BF1544,Other,Male,29.0,New Jersey,No,9,0.0,9,1,9,,Lack of delivery delays is greatly appreciated.
+132279,2024-10-09,BF1543,Clothing,Male,33.0,Portland,No,100,0.0,100,2,200,4.0,
+143581,2024-08-18,BF1548,Clothing,Female,31.0,New Jersey,No,65,0.0,65,1,65,4.0,The product had excellent quality.
+180219,2024-10-27,BF1551,Ornaments,Male,22.0,New Jersey,No,15,0.0,15,1,15,2.0,Never buying from here again.
+137507,2023-12-16,BF1549,Clothing,Female,31.0,Portland,No,130,0.0,130,1,130,5.0,Great design is one of the major positives of this product.
+120881,2024-01-23,BF1547,Ornaments,Male,30.0,New Jersey,No,32,0.0,32,1,32,2.0,The product had poor quality.
+145269,2024-08-01,BF1550,Clothing,Female,21.0,New Jersey,No,97,0.0,97,1,97,5.0,The product had excellent quality.
+128267,2024-11-01,BF1549,Clothing,Male,27.0,Portland,No,130,0.0,130,1,130,5.0,Discount deals was greatly appreciated.
+165407,2024-04-09,BF1553,Ornaments,Female,19.0,Portland,No,50,0.0,50,4,200,1.0,The product is not as advertised.
+132453,2024-08-04,BF1545,Other,Male,24.0,New Jersey,No,10,0.0,10,2,20,5.0,The Product exhibits good design.
+190320,2024-05-22,BF1543,Clothing,Male,30.0,New Jersey,No,100,0.0,100,3,300,3.0,Had slight delays but the product was in good shape.
+154655,2024-03-12,BF1552,Ornaments,Female,18.0,New Jersey,No,45,0.0,45,1,45,3.0,The handling was questionable but incurred only minute damages.
+151100,2024-06-08,BF1549,Clothing,Female,32.0,New Jersey,No,130,0.0,130,1,130,3.0,Expected much better
+164246,2024-05-01,BF1555,Other,Male,27.0,New Jersey,No,23,0.0,23,1,23,3.0,Not as expected.
+160133,2024-06-07,BF1553,Ornaments,Male,32.0,New Jersey,No,50,0.0,50,1,50,3.0,Not as expected.
+159946,2024-09-09,BF1544,Other,Male,34.0,New Jersey,No,9,0.0,9,1,9,3.0,Average product
+177887,2023-12-19,BF1551,Ornaments,Male,32.0,New Jersey,No,15,0.0,15,4,60,,Expected much better
+157250,2024-02-10,BF1549,Clothing,Male,29.0,Portland,No,130,0.0,130,2,260,1.0,Waste of Money.
+161204,2024-02-16,BF1548,Clothing,Male,33.0,Portland,No,65,0.0,65,1,65,4.0,Great design is one of the major positives of this product.
+162291,2023-11-24,BF1548,Clothing,Female,25.0,Portland,No,65,0.0,65,3,195,4.0,The product was delivered quickly.
+129718,2023-11-12,BF1548,Clothing,Male,,Portland,No,65,0.0,65,1,65,5.0,Incredible detailing was clearly evident.
+132045,2024-10-06,BF1543,Clothing,Male,30.0,New Jersey,No,100,0.0,100,1,100,4.0,Lack of delivery delays is greatly appreciated.
+189657,2023-11-22,BF1548,Clothing,Male,29.0,Portland,No,65,0.0,65,2,130,,Careless handling by the delivery team.
+150655,2024-07-31,BF1550,Clothing,Male,19.0,Portland,No,97,0.0,97,1,97,3.0,
+168242,2024-01-08,BF1545,Other,Male,24.0,New Jersey,No,10,0.0,10,1,10,4.0,The Product exhibits good design.
+178535,2024-05-20,BF1546,Clothing,Male,34.0,New Jersey,No,9999,0.0,118,1,118,4.0,The product had excellent quality.
+138390,2024-10-13,BF1551,Ornaments,Female,29.0,New Jersey,No,15,0.0,15,1,15,,"Unfortunately, the delivery was late."
+182641,2024-06-27,BF1544,Other,Male,34.0,New Jersey,No,9,0.0,9,1,9,2.0,Careless handling by the delivery team.
+148811,2024-01-04,BF1548,Clothing,Male,35.0,Portland,No,65,0.0,65,2,130,5.0,
+186952,2024-07-25,BF1549,Clothing,Female,19.0,New Jersey,No,130,0.0,130,1,130,5.0,The Product exhibits good design.
+184487,2024-09-11,BF1551,Ornaments,Female,23.0,New Jersey,No,15,0.0,15,1,15,5.0,Great design is one of the major positives of this product.
+121318,2024-01-31,BF1543,Clothing,Male,20.0,Portland,No,100,0.0,100,1,100,5.0,The product was delivered quickly.
+131792,2024-06-10,BF1548,Clothing,Male,26.0,New Jersey,No,65,0.0,65,1,65,3.0,It was ok.
+120298,2024-04-21,BF1548,Clothing,Male,22.0,New Jersey,No,65,0.0,65,1,65,3.0,Not as expected.
+183504,2024-05-13,BF1550,Clothing,Female,34.0,New Jersey,No,97,0.0,97,2,194,4.0,
+123870,2024-04-27,BF1548,Clothing,Male,33.0,Portland,No,65,0.0,65,1,65,3.0,Had slight delays but the product was in good shape.
+169372,2024-02-16,BF1551,Ornaments,Female,22.0,New Jersey,No,15,0.0,15,1,15,5.0,Lack of delivery delays is greatly appreciated.
+143452,2024-04-25,BF1548,Clothing,Male,28.0,Portland,No,65,0.0,65,1,65,2.0,"Unfortunately, the delivery was late."
+153003,2024-07-30,BF1553,Ornaments,Male,28.0,Portland,No,50,0.0,50,1,50,4.0,Exquisite craftsmanship here is absolutely appreciated.
+142576,2023-12-11,BF1546,Clothing,Male,30.0,Portland,No,118,0.0,118,1,118,3.0,
+143705,2024-08-13,BF1548,Clothing,Male,28.0,New Jersey,No,65,0.0,65,1,65,2.0,Careless handling by the delivery team.
+187030,2024-09-08,BF1549,Clothing,Male,34.0,New Jersey,No,130,0.0,130,1,130,2.0,The product had an underwhelming design.
+193503,2024-09-21,BF1550,Clothing,Male,28.0,New Jersey,No,97,0.0,97,1,97,4.0,Discount deals was greatly appreciated.
+182692,2024-09-10,BF1547,Ornaments,Male,32.0,Portland,No,32,0.0,32,2,64,4.0,The Product exhibits good design.
+166063,2023-11-19,BF1551,Ornaments,Female,28.0,New Jersey,No,15,0.0,15,1,15,1.0,"Unfortunately, the delivery was late."
+120738,2024-03-29,BF1543,Clothing,Male,26.0,Portland,No,100,0.0,100,5,500,5.0,The product was delivered quickly.
+177172,2024-05-23,BF1554,Ornaments,Female,29.0,Portland,No,20,,20,3,60,3.0,
+171614,2023-12-18,BF1543,Clothing,Female,,New Jersey,No,100,0.0,100,1,100,5.0,Great design is one of the major positives of this product.
+155385,2024-06-19,BF1553,Ornaments,Male,33.0,New Jersey,No,50,,50,1,50,,The promotion quality does not match the product
+142695,2024-04-25,BF1548,Clothing,Male,27.0,Portland,No,65,0.0,65,1,65,5.0,Great design is one of the major positives of this product.
+184852,2024-01-12,BF1552,Ornaments,Male,30.0,New Jersey,No,45,0.0,45,3,135,1.0,Low quality products are a usual here these days.
+194034,2023-12-06,BF1544,Other,Male,29.0,Portland,No,9,0.0,9,1,9,5.0,
+154150,2024-05-26,BF1546,Clothing,Male,20.0,Portland,No,118,,118,1,118,2.0,The product had poor quality.
+155148,2024-10-23,BF1543,Clothing,Male,22.0,New Jersey,No,100,0.0,100,1,100,1.0,The product is not as advertised.
+167269,2024-08-15,BF1545,Other,Male,28.0,New Jersey,No,10,0.0,10,4,40,2.0,Careless handling by the delivery team.
+136550,2024-07-28,BF1547,Ornaments,Male,24.0,Portland,No,32,0.0,32,3,96,3.0,
+180445,2023-11-10,BF1550,Clothing,Female,24.0,Portland,No,97,0.0,97,5,485,4.0,The product was delivered quickly.
+178232,2024-09-05,BF1543,Clothing,Female,21.0,New Jersey,No,100,0.0,100,3,300,4.0,The product was delivered quickly.
+186645,2024-02-23,BF1546,Clothing,Male,33.0,New Jersey,No,118,0.0,118,1,118,5.0,The delivery team handled the product with care.
+158318,2024-10-12,BF1544,Other,Male,35.0,New Jersey,No,9,0.0,9,1,9,5.0,Exquisite craftsmanship here is absolutely appreciated.
+125547,2024-10-26,BF1546,Clothing,Female,22.0,Portland,No,118,0.0,118,1,118,5.0,Exquisite craftsmanship here is absolutely appreciated.
+144227,2024-04-02,BF1548,Clothing,Male,33.0,New Jersey,No,65,0.0,65,2,130,4.0,Discount deals was greatly appreciated.
+189641,2023-11-08,BF1548,Clothing,Male,32.0,New Jersey,No,65,0.0,65,2,130,3.0,
+129345,2024-07-04,BF1543,Clothing,Female,30.0,Portland,No,100,0.0,100,1,100,3.0,Expected much better
+163690,2024-07-07,BF1550,Clothing,Female,28.0,New Jersey,No,97,0.0,97,2,194,1.0,
+122676,2024-04-02,BF1544,Other,Female,34.0,Portland,No,9,0.0,9,1,9,3.0,Expected much better
+185569,2024-06-23,BF1549,Clothing,Male,,Portland,No,130,0.0,130,1,130,3.0,The handling was questionable but incurred only minute damages.
+167673,2024-05-02,BF1553,Ornaments,Male,35.0,Portland,No,50,0.0,50,3,150,,
+179204,2024-01-13,BF1547,Ornaments,Female,18.0,Portland,No,32,0.0,32,1,32,,The product had excellent quality.
+195534,2023-11-20,BF1548,Clothing,Male,22.0,Portland,No,65,0.0,65,4,260,5.0,
+137768,2023-12-02,BF1543,Clothing,Male,19.0,New Jersey,No,100,0.0,100,1,100,2.0,"Unfortunately, the delivery was late."
+164834,2024-01-16,BF1550,Clothing,Male,26.0,Portland,No,97,0.0,97,2,194,3.0,Nothing too special.
+199753,2024-08-19,BF1550,Clothing,Male,33.0,Portland,No,97,0.0,97,1,97,3.0,
+129848,2023-11-18,BF1551,Ornaments,Female,31.0,Portland,No,15,,15,1,15,3.0,Not as expected.
+172748,2024-08-06,BF1550,Clothing,Male,33.0,New Jersey,No,97,0.0,97,1,97,3.0,Expected much better
+194336,2024-09-25,BF1547,Ornaments,Female,33.0,Portland,No,32,0.0,32,1,32,5.0,Exquisite craftsmanship here is absolutely appreciated.
+196345,2024-10-05,BF1543,Clothing,Male,25.0,New Jersey,No,100,,100,2,200,5.0,
+128044,2024-06-13,BF1544,Other,Female,22.0,Portland,No,9,0.0,9,2,18,1.0,The promotion quality does not match the product
+195098,2024-10-09,BF1555,Other,Female,27.0,Portland,No,23,0.0,23,2,46,5.0,Discount deals was greatly appreciated.
+161930,2024-09-04,BF1554,Ornaments,Male,29.0,New Jersey,No,20,0.0,20,1,20,4.0,Great design is one of the major positives of this product.
